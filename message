@@ -1364,10 +1364,10 @@
 		},
 		"iconsettings":
 		{
-			"showicon": true,
+			"showicon": false,
 			"hideafterduration": 0,
-			"usecustomicon": true,
-			"customiconurl": "https://i.imgur.com/q9ET3W2.png",
+			"usecustomicon": false,
+			"customiconurl": "",
 			"usecustomtext": false,
 			"customtext": "",
 			"customtextcolor":
