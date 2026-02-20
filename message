@@ -1,0 +1,1403 @@
+{
+	"Atomic":
+	{
+		"title": "LUSTY LOOTERS",.
+		"titlecolor":
+		{
+			"r": 1,
+			"g": 0.68627452850341797,
+			"b": 0.0039215688593685627,
+			"a": 1
+		},
+		"tabs": [
+			{
+				"id": "4A0EA3AD416880C1B0C93B9D542BF34E",
+				"buttoninfo":
+				{
+					"id": "4A0EA3AD416880C1B0C93B9D542BF34E",
+					"title": "WELCOME TO LUSTY LOOTERS",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"borderthickness": 0.19624438881874084,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.20327779650688171,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705882668495178,
+							"b": 0.50980395078659058,
+							"a": 0
+						},
+						"borderthickness": 0.10000000149011612,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator2",
+				"panel1":
+				{
+					"title": "Welcome to <RichColor Color=\"1, 1, 0, 1\">WELCOME TO LUSTY LOOTERS</>",
+					"titlejustification": "Left",
+					"text": "\r\n\r\nThis dashboard is your central hub for everything within the <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</> cluster.\r\nHere you can access essential server information, management tools, and the latest community announcements.\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">CLUSTER INFORMATION</>\r\n\r\n● Fully CROSSPLAY enabled\r\n● Hosted in the OCE (Oceania) region\r\n● Fully self-hosted infrastructure — no reliance on Nitrado\r\n● Optimized for stability and performance\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SERVER PHILOSOPHY</>\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">Lusty Looters</> is built around structured progression, punishing yet rewarding survival, meaningful PvE systems, and an active community-driven environment.\r\n\r\nOur focus is delivering a polished cluster experience through:\r\n\r\n● Balanced progression systems\r\n● Custom features and content\r\n● Consistent updates and improvements\r\n● Long-term cluster development\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">FEATURES & SYSTEMS</>\r\n\r\nWe recommend reviewing all available tabs to fully understand the server systems and progression mechanics.\r\n\r\nThe full mod list is available on the right side of this dashboard.\r\n\r\nAdditional features and refinements will continue to be introduced as the cluster evolves.\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SUPPORT</>\r\n\r\nIf you encounter any issues or have suggestions, please contact the\r\n<RichColor Color=\"1, 1, 0, 1\">Lusty Looters Administration Team</>.\r\n\r\nThank you for being part of <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</>",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "<RichColor Color=\"1, 1, 0, 1\">Our Mods</>",
+					"titlejustification": "Center",
+					"text": "<RichColor Color=\"1, 1, 0, 1\">LUSTY LOOTERS – MOD LIST</>\r\n\r\nThis cluster uses a curated selection of performance-friendly, progression-focused mods designed to expand gameplay while maintaining balance and stability.\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">STRUCTURES & BUILDING</>\r\n\r\nCybers Structures QoL+ Crossplay ●\r\nArkitect Structures Remastered ●\r\nJVH Landscaping ●\r\nVisual Storage QoL ●\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">CREATURES & GAMEPLAY EXPANSION</>\r\n\r\nPaleo ARK Evolution Apex Predators Crossplay ●\r\nPaleo ARK Evolution Hard Hitting Herbivores ●\r\nShiny Dinos Ascended ●\r\nNo Untameables ●\r\nVanilla with Sprinkles ●\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">UTILITY & QUALITY OF LIFE</>\r\n\r\nCliffans Backpacks ●\r\nInventory Backup Saver ●\r\nDino Color Tokens ●\r\nSuper Spyglass Plus ●\r\nDino Depot ●\r\nTROCKII Potions ●\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">UI, ECONOMY & SYSTEMS</>\r\n\r\nLethal Quests Ascended UI ●\r\nMX-E Ark Shop UI ●\r\nASA Bot Companion ●\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">ADMIN & BACKEND</>\r\n\r\nASA API Utils ●\r\nAwesome ARK Tools ●\r\nAtomic Server Manager ●\r\n\r\nAll mods are actively maintained within the <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</> cluster to ensure compatibility, performance, and long-term stability.",
+					"textjustification": "Right",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.0010416667209938169
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "97FE8526458F411A30BC7D908FB9719E",
+				"buttoninfo":
+				{
+					"id": "97FE8526458F411A30BC7D908FB9719E",
+					"title": "SERVER SETTINGS",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"borderthickness": 0.19624438881874084,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.20327779650688171,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705882668495178,
+							"b": 0.50980395078659058,
+							"a": 0
+						},
+						"borderthickness": 0.10000000149011612,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator4",
+				"panel1":
+				{
+					"title": "",
+					"titlejustification": "Center",
+					"text": "<RichColor Color=\"1, 1, 0, 1\">BREEDING SETTINGS</>\r\n\r\nThe following values apply to all maps within the <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</> cluster.\r\n\r\nBabyMatureSpeedMultiplier = 50\r\nBabyFoodConsumptionSpeedMultiplier = 100\r\nBabyCuddleIntervalMultiplier = 0.038333333\r\nBabyCuddleGracePeriodMultiplier = 1\r\nBabyCuddleLoseImprintQualitySpeedMultiplier = 1\r\nBabyImprintAmountMultiplier = 1\r\nBabyImprintingStatScaleMultiplier = 1\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SETTING BREAKDOWN</>\r\n\r\n● Babies mature 50× faster than official rates\r\n● Baby food consumption is increased to 100×\r\n● Imprint intervals are reduced (0.0383 multiplier)\r\n● Imprint percentage is standard (1×)\r\n● Imprint stat scaling remains standard (1×)\r\n\r\nThese settings are tuned to provide accelerated progression while maintaining balanced stat scaling across the cluster.\r\n",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 3.8805108432127255e-11
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "",
+					"titlejustification": "Center",
+					"text": "<RichColor Color=\"1, 1, 0, 1\">HARVEST SETTINGS</>\r\n\r\nThe following harvesting values apply to all maps within the <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</> cluster.\r\n\r\nHarvestAmountMultiplier = 3\r\nHarvestHealthMultiplier = 5\r\nResourcesRespawnPeriodMultiplier = 1.0\r\nItemStackSizeMultiplier = 20\r\nStructurePreventResourceRadiusMultiplier = 1.0\r\nUseOptimizedHarvestingHealth = True\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SETTING BREAKDOWN</>\r\n\r\n● 3× resources per harvest ●\r\n● 5× node health (more hits per node) ●\r\n● Official resource respawn rate (1×) ●\r\n● 20× stack sizes ●\r\n● Official structure resource radius ●\r\n● Optimized harvesting enabled ●\r\n\r\nThese settings are tuned to increase resource flow while maintaining balanced farming progression and long-term map stability.",
+					"textjustification": "Center",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Center",
+					"text": "<RichColor Color=\"1, 1, 0, 1\">GENERAL SETTINGS</>\r\n\r\nThe following core values apply across the <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</> cluster.\r\n\r\nPvE Enabled\r\nMax Wild Level: 250\r\nXP Multiplier: 1×\r\nTaming Speed: 5×\r\nPrevent Spawn Animations: Enabled\r\nOptimized Harvesting Health: Enabled\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">DAY & NIGHT CYCLE</>\r\n\r\nFull Cycle Length: ~4h 30m\r\nDay Length: ~3h\r\nNight Length: ~1h 30m\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">COMBAT SCALING</>\r\n\r\nWild Dino Damage: 2×\r\nPlayer Resistance: 3×\r\nPlayer Damage: 1×\r\nStructure Resistance: 0.6\r\nTamed Dino Damage: 1×\r\nTamed Dino Resistance: 1×\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SETTING BREAKDOWN</>\r\n\r\nPvE-focused environment with structured progression ●\r\nIncreased wild difficulty through elevated dino damage ●\r\nEnhanced player survivability via resistance scaling ●\r\nBalanced tamed combat values to prevent power creep ●\r\nAdjusted structure resistance for controlled durability ●\r\n\r\nThese values are tuned to maintain challenge while preserving long-term cluster balance and progression.",
+					"textjustification": "Right",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "E8BCF58045A4C43556C008B5BB2EB6BF",
+				"buttoninfo":
+				{
+					"id": "E8BCF58045A4C43556C008B5BB2EB6BF",
+					"title": "PLUGIN INFO / COMMANDS",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 0
+						},
+						"borderthickness": 0.10000000149011612,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator4",
+				"panel1":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "<RichColor Color=\"1, 1, 0, 1\">DINO UTILITIES | ENABLED COMMANDS</>\r\n\r\nAll commands have a 5 second cooldown unless otherwise stated.\r\nSome commands require Gold Marks.\r\n\r\nUse commands in global chat.\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">GENERAL</>\r\n\r\n● /dinohelp\r\nDisplays all available Dino Utilities commands in your console\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">BREEDING & BABIES</>\r\n\r\n● /claimbabies\r\nClaims nearby babies (auto-cryopods enabled, max 20)\r\n\r\n● /hatch\r\nInstantly hatches the fertilized egg you are looking at\r\n\r\n● /givebirth\r\nForces the dino you are looking at to give birth\r\n\r\n● /raisebaby\r\nInstantly raises the baby you are looking at\r\n\r\n● /imprint\r\nFully imprints the baby you are looking at (Gold Marks required)\r\n\r\n● /imprintchange\r\nTransfers imprint ownership (Gold Marks required)\r\n\r\n● /matedinos\r\nEnables mating for dinos in range (Gold Marks required)\r\n\r\n● /matenow\r\nForces immediate mating on the targeted dino (Gold Marks required)\r\n\r\n● /resetmating\r\nResets mating cooldown (Gold Marks required)\r\n\r\n● /fertile\r\nRemoves neuter on targeted dino (Gold Marks required)\r\n\r\n● /fertiledinos\r\nRemoves neuter on dinos in range (Gold Marks required)\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">CRYOPOD & MANAGEMENT</>\r\n\r\n● /pod\r\nCryopods the dino you are looking at\r\n\r\n● /pods\r\nCryopods dinos in range (max 20)\r\n\r\n● /feed\r\nFeeds dinos in range (Gold Marks required)\r\n\r\n● /renamedinos 'Name Here'\r\nRenames dinos in range (Gold Marks required)\r\nExample: /renamedinos 'Boss Rex'\r\n\r\n● /turretmode on\r\n● /turretmode off\r\nToggles turret mode on dinos in range\r\n\r\n● /wake\r\nWakes the targeted dino (Gold Marks required)\r\n\r\n● /whip\r\nWhips targeted dino\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">GENETICS & STATS</>\r\n\r\n● /cg\r\nChanges gender of targeted dino\r\n\r\n● /neuter\r\nNeuters targeted dino (Gold Marks required)\r\n\r\n● /neuterdinos\r\nNeuters dinos in range (Gold Marks required)\r\n\r\n● /nomatedinos\r\nDisables mating in range (Gold Marks required)\r\n\r\n● /dmindwipe\r\nMindwipes targeted dino stats (Gold Marks required)\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">CLONING & UTILITY</>\r\n\r\n● /finishclone\r\nInstantly finishes cloning in Tek Cloning Chamber (Gold Marks required)\r\n\r\n● /dkill\r\nKills targeted dino (Gold Marks required)\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">IMPORTANT NOTES</>\r\n\r\n● Most commands require you to look directly at your own dino\r\n● Foundation distance limits apply to several commands\r\n● Cryopod-required commands require pods in inventory\r\n● Some species are blacklisted\r\n● Gold Marks are deducted automatically when required",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0,
+						"b": 0,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "155CDCC044AA62382A4D0FB7499D271F",
+				"buttoninfo":
+				{
+					"id": "155CDCC044AA62382A4D0FB7499D271F",
+					"title": "RULES",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"borderthickness": 0.19624438881874084,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.20327779650688171,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705882668495178,
+							"b": 0.50980395078659058,
+							"a": 0
+						},
+						"borderthickness": 0.10000000149011612,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator2",
+				"panel1":
+				{
+					"title": "RULES",
+					"titlejustification": "Center",
+					"text": "<RichColor Color=\"1, 1, 0, 1\">LUSTY LOOTERS | CODE OF CONDUCT</>\r\n\r\nThis document outlines the rules and enforcement standards for all players within the <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</> cluster.\r\nBy accessing any server or Discord service, you agree to the following terms.\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SECTION I | DISCORD CONDUCT</>\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">1.1 Personal Conduct</>\r\n\r\n● Hate speech, slurs, threats, defamation, or targeted harassment are prohibited\r\n● Trolling, baiting, or intentionally disruptive behavior is not allowed\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">1.2 Content Restrictions</>\r\n\r\n● NSFW, shock content, or illegal material is prohibited\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">1.3 Channel Use</>\r\n\r\n● Channels must be used for their intended purpose\r\n● Derailing discussions or misusing support channels is not allowed\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">1.4 Spam & Promotion</>\r\n\r\n● Unsolicited advertising or external invites are prohibited\r\n● Excessive pinging, spam, or link flooding is not allowed\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">1.5 Moderator Respect</>\r\n\r\n● Do not argue with moderators in public channels\r\n● Appeals must be handled through the ticket system\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SECTION II | SERVER CONDUCT</>\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">2.1 Player Behavior</>\r\n\r\n● Griefing of any kind is prohibited\r\n● PvP-style harassment (flyer pickups, drowning tames, bait stealing, etc.) is punishable\r\n● Abandoned starter assets may be cleared by administration\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">2.2 Exploit Prohibition</>\r\n\r\n● Third-party tools such as ESP, macros, or bots are not allowed\r\n● Bugs or unintended mechanics must be reported, not exploited\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">2.3 Building Regulations</>\r\n\r\n● Building in artifact caves, mission zones, meshable, or restricted areas is prohibited\r\n● Excessive foundation spam is not allowed\r\n● Obstructive or performance-heavy builds may be removed at administration discretion\r\n● Bases inactive for 30 days may be cleared\r\n● Blocking or exploiting decay mechanics is prohibited\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">2.4 Naming Rules</>\r\n\r\n● Impersonating administration members is prohibited\r\n● Offensive, political, or intentionally disruptive names are not allowed\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SECTION III | TAMES & WILDLIFE</>\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">3.1 Taming Conduct</>\r\n\r\n● Do not interfere with active tame attempts\r\n● Killing passive tames is prohibited\r\n● Trap griefing or kiting wild creatures into bases is not allowed\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">3.2 Dino Limits</>\r\n\r\n● There is no fixed dino cap per tribe\r\n● Excess creatures causing performance issues may require reduction\r\n● Failure to comply may result in administrative removal\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">3.3 Abuse of Tames</>\r\n\r\n● Cloning glitches or exploit-based taming are prohibited\r\n● Illegitimate creatures may be removed without compensation\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SECTION IV | ADMIN STANDARDS</>\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">4.1 Neutrality</>\r\n\r\n● Admin tools may not be used for personal progression\r\n● Administrative actions must serve legitimate purposes\r\n● Major actions may be logged and reviewed\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">4.2 Command Logging</>\r\n\r\n● Administrative actions affecting players must be logged\r\n● Major actions require Head Admin or Server Manager approval\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">4.3 Conflict of Interest</>\r\n\r\n● Admins may not moderate their own tribe, friends, or alternate accounts\r\n● All alternate accounts must be declared\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SECTION V | CLUSTER ENFORCEMENT</>\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">5.1 PvP Actions Within PvE</>\r\n\r\n● PvP-style griefing remains punishable\r\n● Examples include drowning, trapping, tame stealing, or base kiting\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">5.2 Rule Interpretation</>\r\n\r\n● Exploiting loopholes or harmful behavior may be addressed at administration discretion\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">5.3 Ban Appeals</>\r\n\r\n● All appeals must be submitted through the ticket system\r\n● Final decisions are made by the Server Manager or Owner\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">SECTION VI | WEBSTORE POLICY</>\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">6.1 Use of Webstore Items</>\r\n\r\n● Webstore items must be used as delivered\r\n● Non-blueprint items may not be converted or recreated as blueprints\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">6.2 Monitoring & Tracking</>\r\n\r\n● Saddle and blueprint activity is actively tracked\r\n● Relevant activity is automatically logged for review\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">6.3 Purchased Creatures</>\r\n\r\n● Treated as standard in-game assets once delivered\r\n● Loss due to gameplay is not eligible for replacement\r\n● Verified server-side errors may be reviewed at administration discretion\r\n● All administrative decisions are final\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">6.4 Refunds</>\r\n\r\n● Items removed due to rule violations are not eligible for refund or replacement\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">ENFORCEMENT NOTICE</>\r\n\r\nBy playing on <RichColor Color=\"1, 1, 0, 1\">Lusty Looters</>, you accept all listed terms.\r\nThese rules apply across all maps and services.\r\n\r\nRepeated misconduct or severe violations may result in formal enforcement action without further notice.",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "PANEL 2",
+					"titlejustification": "Left",
+					"text": "THIS IS AN UNEDITED PAGE",
+					"textjustification": "Center",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			}
+		],
+		"links": [
+			{
+				"id": "1A6C7E804BA08F281D489586FD3E02D4",
+				"url": "https://projectnull.tip4serv.com",
+				"buttoninfo":
+				{
+					"id": "1A6C7E804BA08F281D489586FD3E02D4",
+					"title": "OUR WEBSTORE",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 0
+						},
+						"borderthickness": 0.10000000149011612,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "4D4DA15940A554DA1FB507AC227A27B2",
+				"url": "https://discord.gg/Camg9xdd3n",
+				"buttoninfo":
+				{
+					"id": "4D4DA15940A554DA1FB507AC227A27B2",
+					"title": "LUSTY LOOTERS DISCORD",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 0
+						},
+						"borderthickness": 0.10000000149011612,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "EA528BE04A95B2A86350B595C84C54DA",
+				"url": "https://survivetheark.com",
+				"buttoninfo":
+				{
+					"id": "EA528BE04A95B2A86350B595C84C54DA",
+					"title": "ARK COMMUNITY CRUNCH NEWS",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.19976109266281128,
+						"cornerradius": 1
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 0
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 0
+						},
+						"borderthickness": 0.10000000149011612,
+						"cornerradius": 1
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			}
+		],
+		"linkbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 0
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"borderthickness": 0.19976109266281128,
+				"cornerradius": 1
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.015685999765992165,
+					"b": 0.043136999011039734,
+					"a": 0
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.19976109266281128,
+				"cornerradius": 1
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 0
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 0
+				},
+				"borderthickness": 0.10000000149011612,
+				"cornerradius": 1
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"tabbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 0
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"borderthickness": 0.19624438881874084,
+				"cornerradius": 1
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.20327779650688171,
+				"cornerradius": 1
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 0
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705882668495178,
+					"b": 0.50980395078659058,
+					"a": 0
+				},
+				"borderthickness": 0.10000000149011612,
+				"cornerradius": 0
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"paneldefaultbackgroundcolor":
+		{
+			"r": 0,
+			"g": 0.0078429998829960823,
+			"b": 0.019608000293374062,
+			"a": 0.7019609808921814
+		},
+		"iconsettings":
+		{
+			"showicon": true,
+			"hideafterduration": 0,
+			"usecustomicon": true,
+			"customiconurl": "https://i.imgur.com/q9ET3W2.png",
+			"usecustomtext": false,
+			"customtext": "",
+			"customtextcolor":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"openbuttonkey": "F2",
+			"position": "NewEnumerator3",
+			"iconmarginx": 20,
+			"iconmarginy": 20,
+			"iconopacity": 1,
+			"customtextopacity": 0,
+			"customtexthorizontalalignment": "HAlign_Right",
+			"customtextverticalalignment": "VAlign_Fill",
+			"customtextfontsize": 0
+		},
+		"showsettings":
+		{
+			"onplayerlogon": true,
+			"fornewplayersonly": false,
+			"onnextplayerlogonversion": 0
+		},
+		"miscsettings":
+		{
+			"isplayerslistenabled": false,
+			"istribeslistenabled": false,
+			"isdinoscannerenabled": false
+		}
+	}
+}
