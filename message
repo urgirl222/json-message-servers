@@ -133,8 +133,8 @@
 					"backgroundcolor":
 					{
 						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
+						"g": 0,
+						"b": 0,
 						"a": 0
 					},
 					"usecustombackgroundimage": false,
@@ -1364,10 +1364,10 @@
 		},
 		"iconsettings":
 		{
-			"showicon": false,
+			"showicon": true,
 			"hideafterduration": 0,
-			"usecustomicon": false,
-			"customiconurl": "",
+			"usecustomicon": true,
+			"customiconurl": "https://i.imgur.com/HJ5VoPo.png",
 			"usecustomtext": false,
 			"customtext": "",
 			"customtextcolor":
@@ -1391,7 +1391,7 @@
 		{
 			"onplayerlogon": true,
 			"fornewplayersonly": false,
-			"onnextplayerlogonversion": 0
+			"onnextplayerlogonversion": 1
 		},
 		"miscsettings":
 		{
