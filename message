@@ -4,9 +4,9 @@
 		"title": "LUSTY LOOTERS",
 		"titlecolor":
 		{
-			"r": 1,
-			"g": 0.68627452850341797,
-			"b": 0.0039215688593685627,
+			"r": 0.046278595924377441,
+			"g": 0.42179340124130249,
+			"b": 1,
 			"a": 1
 		},
 		"tabs": [
@@ -28,16 +28,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"borderthickness": 0.19624438881874084,
@@ -50,20 +50,20 @@
 							"r": 1,
 							"g": 0.68627452850341797,
 							"b": 0.0039215688593685627,
-							"a": 1
+							"a": 0
 						},
 						"foregroundcolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
 							"a": 1
 						},
 						"borderthickness": 0.20327779650688171,
@@ -80,9 +80,9 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
@@ -223,16 +223,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"borderthickness": 0.19624438881874084,
@@ -245,20 +245,20 @@
 							"r": 1,
 							"g": 0.68627452850341797,
 							"b": 0.0039215688593685627,
-							"a": 1
+							"a": 0
 						},
 						"foregroundcolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
 							"a": 1
 						},
 						"borderthickness": 0.20327779650688171,
@@ -275,9 +275,9 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
@@ -418,45 +418,45 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
-						"borderthickness": 0.19976109266281128,
+						"borderthickness": 0.19624438881874084,
 						"cornerradius": 1
 					},
 					"hovered":
 					{
 						"backgroundcolor":
 						{
-							"r": 0,
-							"g": 0.015685999765992165,
-							"b": 0.043136999011039734,
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
 							"a": 0
 						},
 						"foregroundcolor":
+						{
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
 						{
 							"r": 1,
 							"g": 0.68627452850341797,
 							"b": 0.0039215688593685627,
 							"a": 1
 						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.19976109266281128,
+						"borderthickness": 0.20327779650688171,
 						"cornerradius": 1
 					},
 					"pressed":
@@ -470,20 +470,20 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
 							"r": 0,
-							"g": 0.44705900549888611,
-							"b": 0.50980401039123535,
+							"g": 0.44705882668495178,
+							"b": 0.50980395078659058,
 							"a": 0
 						},
 						"borderthickness": 0.10000000149011612,
-						"cornerradius": 1
+						"cornerradius": 0
 					},
 					"selected":
 					{
@@ -513,13 +513,13 @@
 					}
 				},
 				"panelspacing": 10,
-				"layout": "NewEnumerator4",
+				"layout": "NewEnumerator12",
 				"panel1":
 				{
 					"title": "",
 					"titlejustification": "Left",
-					"text": "<RichColor Color=\"1, 1, 0, 1\">DINO UTILITIES | ENABLED COMMANDS</>\r\n\r\nAll commands have a 5 second cooldown unless otherwise stated.\r\nSome commands require Gold Marks.\r\n\r\nUse commands in global chat.\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">GENERAL</>\r\n\r\n● /dinohelp\r\nDisplays all available Dino Utilities commands in your console\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">BREEDING & BABIES</>\r\n\r\n● /claimbabies\r\nClaims nearby babies (auto-cryopods enabled, max 20)\r\n\r\n● /hatch\r\nInstantly hatches the fertilized egg you are looking at\r\n\r\n● /givebirth\r\nForces the dino you are looking at to give birth\r\n\r\n● /raisebaby\r\nInstantly raises the baby you are looking at\r\n\r\n● /imprint\r\nFully imprints the baby you are looking at (Gold Marks required)\r\n\r\n● /imprintchange\r\nTransfers imprint ownership (Gold Marks required)\r\n\r\n● /matedinos\r\nEnables mating for dinos in range (Gold Marks required)\r\n\r\n● /matenow\r\nForces immediate mating on the targeted dino (Gold Marks required)\r\n\r\n● /resetmating\r\nResets mating cooldown (Gold Marks required)\r\n\r\n● /fertile\r\nRemoves neuter on targeted dino (Gold Marks required)\r\n\r\n● /fertiledinos\r\nRemoves neuter on dinos in range (Gold Marks required)\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">CRYOPOD & MANAGEMENT</>\r\n\r\n● /pod\r\nCryopods the dino you are looking at\r\n\r\n● /pods\r\nCryopods dinos in range (max 20)\r\n\r\n● /feed\r\nFeeds dinos in range (Gold Marks required)\r\n\r\n● /renamedinos 'Name Here'\r\nRenames dinos in range (Gold Marks required)\r\nExample: /renamedinos 'Boss Rex'\r\n\r\n● /turretmode on\r\n● /turretmode off\r\nToggles turret mode on dinos in range\r\n\r\n● /wake\r\nWakes the targeted dino (Gold Marks required)\r\n\r\n● /whip\r\nWhips targeted dino\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">GENETICS & STATS</>\r\n\r\n● /cg\r\nChanges gender of targeted dino\r\n\r\n● /neuter\r\nNeuters targeted dino (Gold Marks required)\r\n\r\n● /neuterdinos\r\nNeuters dinos in range (Gold Marks required)\r\n\r\n● /nomatedinos\r\nDisables mating in range (Gold Marks required)\r\n\r\n● /dmindwipe\r\nMindwipes targeted dino stats (Gold Marks required)\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">CLONING & UTILITY</>\r\n\r\n● /finishclone\r\nInstantly finishes cloning in Tek Cloning Chamber (Gold Marks required)\r\n\r\n● /dkill\r\nKills targeted dino (Gold Marks required)\r\n\r\n<RichColor Color=\"1, 1, 0, 1\">IMPORTANT NOTES</>\r\n\r\n● Most commands require you to look directly at your own dino\r\n● Foundation distance limits apply to several commands\r\n● Cryopod-required commands require pods in inventory\r\n● Some species are blacklisted\r\n● Gold Marks are deducted automatically when required",
-					"textjustification": "Left",
+					"text": "<RichColor Color=\"0.27,0.55,1,1\">DINO UTILITIES | ENABLED COMMANDS & PRICES</>\r\n\r\nDino Utilities is a powerful automation and management plugin designed to streamline breeding, cryopodding, stat management, and general dino control. It reduces repetitive tasks, improves quality of life, and provides advanced control over your creatures while maintaining balance through cooldowns and Gold Nugget costs.\r\n\r\nAll commands have a 5 second cooldown unless otherwise stated.\r\nSome commands require Gold Nuggets.\r\n\r\nUse commands in global or tribe chat.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">GENERAL</>\r\n\r\n● /dinohelp — FREE ●  \r\nDisplays all available Dino Utilities commands in your console (15s cooldown)\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">BREEDING & BABIES</>\r\n\r\n● /claimbabies — 1000 Gold Nuggets ●  \r\nClaims nearby babies (auto cryopods enabled, max 20)\r\n\r\n● /hatch — 5000 Gold Nuggets ●  \r\nInstantly hatches the fertilized egg you are looking at\r\n\r\n● /givebirth — 1500 Gold Nuggets ●  \r\nForces the dino you are looking at to give birth\r\n\r\n● /raisebaby — 1500 Gold Nuggets ●  \r\nInstantly raises the baby you are looking at\r\n\r\n● /imprint — 3250 Gold Nuggets ●  \r\nFully imprints the baby you are looking at\r\n\r\n● /imprintchange — 1500 Gold Nuggets ●  \r\nTransfers imprint ownership\r\n\r\n● /matedinos — 5 Gold Nuggets ●  \r\nEnables mating for dinos in range\r\n\r\n● /matenow — 2000 Gold Nuggets ●  \r\nForces immediate mating on the targeted dino\r\n\r\n● /resetmating — 500 Gold Nuggets ●  \r\nResets mating cooldown\r\n\r\n● /fertile — 3500 Gold Nuggets ●  \r\nRemoves neuter on targeted dino\r\n\r\n● /fertiledinos — 5000 Gold Nuggets ●  \r\nRemoves neuter on dinos in range\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">CRYOPOD & MANAGEMENT</>\r\n\r\n● /pod — FREE ●  \r\nCryopods the dino you are looking at (requires cryopod)\r\n\r\n● /pods — 10 Gold Nuggets ●  \r\nCryopods dinos in range (max 20, requires cryopods)\r\n\r\n● /feed — 1500 Gold Nuggets ●  \r\nFeeds dinos in range\r\n\r\n● /renamedinos 'Name Here' — 5 Gold Nuggets ●  \r\nRenames dinos in range  \r\nExample: /renamedinos 'Boss Rex'\r\n\r\n● /turretmode on or off — FREE ●  \r\nToggles turret mode on dinos in range\r\n\r\n● /wake — 5 Gold Nuggets ●  \r\nWakes the targeted dino\r\n\r\n● /whip — FREE ●  \r\nWhips targeted dino\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">GENETICS & STATS</>\r\n\r\n● /cg — FREE ●  \r\nChanges gender of targeted dino\r\n\r\n● /neuter — 5 Gold Nuggets ●  \r\nNeuters targeted dino\r\n\r\n● /neuterdinos — 5 Gold Nuggets ●  \r\nNeuters dinos in range\r\n\r\n● /nomatedinos — 5 Gold Nuggets ●  \r\nDisables mating in range\r\n\r\n● /dmindwipe — 2500 Gold Nuggets ●  \r\nMindwipes targeted dino stats\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">CLONING & UTILITY</>\r\n\r\n● /finishclone — 5000 Gold Nuggets ●  \r\nInstantly finishes cloning in Tek Cloning Chamber\r\n\r\n● /dkill — 25 Gold Nuggets ●  \r\nKills targeted dino\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\n● Most commands require you to look directly at your own dino  \r\n● Foundation distance limits apply to several commands  \r\n● Cryopod required commands require pods in inventory  \r\n● Some species are blacklisted  \r\n● Gold Nuggets are deducted automatically when required  ",
+					"textjustification": "Center",
 					"backgroundcolor":
 					{
 						"r": 0,
@@ -534,7 +534,7 @@
 				{
 					"title": "",
 					"titlejustification": "Left",
-					"text": "",
+					"text": "<RichColor Color=\"0.27,0.55,1,1\">ANTI PVE GRIEFING | PROTECTION SETTINGS</>\r\n\r\nAnti PvE Griefing is a protection plugin designed to prevent common trolling and griefing behavior on PvE servers. It safeguards players, dinos, structures, inventories, and eggs from unauthorized interaction while still allowing controlled ally permissions.\r\n\r\nAdmins ignore protection rules.\r\n\r\nProtection applies automatically. No chat commands required.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">PLAYER PROTECTION</>\r\n\r\n● Offline Protection — DISABLED  \r\nThis setting would allow damage to players after they log out. It is disabled.\r\n\r\n● Dragging Other Players — BLOCKED  \r\nPlayers cannot grab or drag other players\r\n\r\n● Dino Carry — BLOCKED  \r\nPlayers cannot carry other tribe dinos  \r\nAllies are allowed to carry allied dinos\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">STRUCTURE & ITEM PROTECTION</>\r\n\r\n● Item Pickup — BLOCK ALL  \r\nPlayers cannot pick up dropped items from other tribes  \r\nAllies are allowed\r\n\r\n● Fertilized Egg Pickup — BLOCKED  \r\nPrevents picking up other tribes fertilized eggs  \r\nAllies are allowed\r\n\r\n● Structure Power Control — BLOCKED  \r\nPlayers cannot turn generators or structures on or off  \r\nAllies are allowed  \r\nUnlocked structures can still be interacted with\r\n\r\n● Inventory Viewing — BLOCKED  \r\nPlayers cannot view other tribe inventories  \r\nStructures with PIN codes are ignored  \r\nUnlocked structures are ignored  \r\nAllies are not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">DINO MANAGEMENT</>\r\n\r\n● Algae Collecting From Other Archelon — BLOCKED  \r\nPrevents harvesting algae from another tribe’s Archelon  \r\nAllies are not allowed\r\n\r\n● Destroy Decayed Dinos — ENABLED  \r\nAutomatically removes decayed dinos\r\n\r\n● Cross Tribe Dino Mating — DISABLED  \r\nDinos from different tribes cannot mate  \r\nAllies are not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">EGG MANAGEMENT</>\r\n\r\n● Auto Destroy Fertilized Eggs — DISABLED  \r\nNo automatic egg destruction  \r\nConfigured delay is 30 seconds but currently inactive\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SPECIAL STRUCTURE RULES</>\r\n\r\n● Oil Pumps — AUTO UNLOCK ON PLACEMENT  \r\nCannot be manually locked\r\n\r\n● Tree Sap Taps — AUTO UNLOCK ON PLACEMENT  \r\nCannot be manually locked\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\n● Protection applies automatically server wide  \r\n● Admins bypass protection rules  \r\n● Ally permissions vary per category as listed above  \r\n● Designed specifically for PvE grief prevention  ",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -550,8 +550,8 @@
 				{
 					"title": "",
 					"titlejustification": "Left",
-					"text": "",
-					"textjustification": "Left",
+					"text": "<RichColor Color=\"0.27,0.55,1,1\">DEATHGUARD | INVENTORY RECOVERY SYSTEM</>\r\n\r\nDeathGuard securely captures your inventory on death and stores it for controlled recovery. Designed to protect against glitches, crashes, mesh deaths, and world border issues while preventing abuse.\r\n\r\nProtection applies automatically on death.\r\n\r\nUse commands in global or tribe chat where applicable.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">INVENTORY CAPTURE</>\r\n\r\n● Capture On Death — ENABLED ●  \r\nInventory is saved immediately when you die  \r\n\r\n● Equipped Items — INCLUDED ●  \r\n● Hotbar Items — INCLUDED ●  \r\n\r\n● Max Items Per Death — 300 ●  \r\n● Snapshot Cooldown — 60 Seconds ●  \r\n● Retention Period — 30 Days ●  \r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">PLAYER ACCESS</>\r\n\r\n● /dgbodies — DISABLED ●  \r\nDeath listing is not available to regular players  \r\n\r\n● /dgrecover — DISABLED ●  \r\nManual recovery is not available to regular players  \r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">AUTO RECOVERY</>\r\n\r\n● Auto Recovery — ROLE RESTRICTED ●  \r\n\r\nAutomatic recovery is ONLY available to:  \r\n\r\n● Tek_supporter ●  \r\n● Metal_supporter ●  \r\n\r\nAll other players do not have automatic recovery access.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">ADMIN ASSISTANCE</>\r\n\r\n● Glitch / Bug / Mesh / Crash Deaths — ADMIN REVIEW REQUIRED ●  \r\n\r\nIf your death was not your fault, contact an admin.  \r\nApproved recoveries may be manually delivered after verification.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\n● Recovery is blocked if another player loots your bag ●  \r\n● Recovery is blocked if the death is not yours ●  \r\n● Death records expire after 30 days ●  \r\n● Admin decisions are final on disputed recoveries ●  ",
+					"textjustification": "Center",
 					"backgroundcolor":
 					{
 						"r": 0,
@@ -566,8 +566,8 @@
 				{
 					"title": "",
 					"titlejustification": "Left",
-					"text": "",
-					"textjustification": "Left",
+					"text": "<RichColor Color=\"0.27,0.55,1,1\">LUSTY LOOTERS | MARKETPLACE & QUEST SYSTEM</>\r\n\r\nOur Marketplace and Quest System are fully integrated and powered by Gold Nuggets.\r\n\r\nEarn Gold Nuggets through playtime rewards and quests.  \r\nSpend Gold Nuggets inside the in-game shop UI.\r\n\r\nUse commands in global or tribe chat.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">MARKETPLACE SYSTEM</>\r\n\r\nCurrency — Gold Nuggets ●\r\n\r\nPlaytime Rewards — ENABLED ●\r\n5 Gold Nuggets every 5 minutes  \r\n\r\nDiscord Server Boosters — BONUS REWARDS ●\r\n15 Gold Nuggets every 5 minutes  \r\n\r\nOpen Shop UI — PRESS F1 ●\r\n\r\nAdditional commands available  \r\n/points — Check Balance ●  \r\n/trade 'Player' Amount — Send Gold Nuggets ●  \r\n\r\nShop includes armor sets, potions, utilities, boss tributes, quality of life items, resets and more.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SUPPORTER ACCESS</>\r\n\r\nWood_supporter — Extra purchasable items ●  \r\nStone_supporter — Extra purchasable items ●  \r\nMetal_supporter — Advanced resources unlocked ●  \r\nTek_supporter — Premium resources unlocked ●  \r\n\r\n\r\nSupporter tiers unlock additional shop categories including bulk resources, crafting materials, advanced components, and exclusive utility items not available to standard players. \r\n\r\nHigher tiers unlock premium materials and additional perks.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">QUEST SYSTEM — LETHAL QUESTS ASCENDED</>\r\n\r\nOpen Quest UI — PRESS F3 ●  \r\n\r\nDaily Quests — ENABLED ●  \r\nWeekly Quests — ENABLED ●  \r\n\r\nComplete quests to earn Gold Nuggets.  \r\nObjectives include PvE challenges, combat, gathering, exploration and progression tasks.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\nAll purchases are final ●  \r\nSome items execute server commands ●  \r\nInventory space required for kit redemption ●  \r\nGold Nuggets are non refundable unless error occurs ●  ",
+					"textjustification": "Right",
 					"backgroundcolor":
 					{
 						"r": 0,
@@ -613,16 +613,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"borderthickness": 0.19624438881874084,
@@ -635,20 +635,20 @@
 							"r": 1,
 							"g": 0.68627452850341797,
 							"b": 0.0039215688593685627,
-							"a": 1
+							"a": 0
 						},
 						"foregroundcolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
 							"a": 1
 						},
 						"borderthickness": 0.20327779650688171,
@@ -665,9 +665,9 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
@@ -811,16 +811,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"borderthickness": 0.19976109266281128,
@@ -837,16 +837,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
 							"a": 1
 						},
 						"borderthickness": 0.19976109266281128,
@@ -863,9 +863,9 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
@@ -925,16 +925,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"borderthickness": 0.19976109266281128,
@@ -951,16 +951,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
 							"a": 1
 						},
 						"borderthickness": 0.19976109266281128,
@@ -977,9 +977,9 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
@@ -1039,16 +1039,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"borderthickness": 0.19976109266281128,
@@ -1065,16 +1065,16 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
 						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
+							"r": 1,
+							"g": 0.68627452850341797,
+							"b": 0.0039215688593685627,
 							"a": 1
 						},
 						"borderthickness": 0.19976109266281128,
@@ -1091,9 +1091,9 @@
 						},
 						"foregroundcolor":
 						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
+							"r": 0.12549020349979401,
+							"g": 0.3803921639919281,
+							"b": 1,
 							"a": 1
 						},
 						"bordercolor":
@@ -1151,16 +1151,16 @@
 				},
 				"foregroundcolor":
 				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"bordercolor":
 				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"borderthickness": 0.19976109266281128,
@@ -1177,16 +1177,16 @@
 				},
 				"foregroundcolor":
 				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"bordercolor":
 				{
-					"r": 0,
-					"g": 0,
-					"b": 0,
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
 					"a": 1
 				},
 				"borderthickness": 0.19976109266281128,
@@ -1203,9 +1203,9 @@
 				},
 				"foregroundcolor":
 				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"bordercolor":
@@ -1261,16 +1261,16 @@
 				},
 				"foregroundcolor":
 				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"bordercolor":
 				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"borderthickness": 0.19624438881874084,
@@ -1283,20 +1283,20 @@
 					"r": 1,
 					"g": 0.68627452850341797,
 					"b": 0.0039215688593685627,
-					"a": 1
+					"a": 0
 				},
 				"foregroundcolor":
 				{
-					"r": 0,
-					"g": 0,
-					"b": 0,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"bordercolor":
 				{
-					"r": 0,
-					"g": 0,
-					"b": 0,
+					"r": 1,
+					"g": 0.68627452850341797,
+					"b": 0.0039215688593685627,
 					"a": 1
 				},
 				"borderthickness": 0.20327779650688171,
@@ -1313,9 +1313,9 @@
 				},
 				"foregroundcolor":
 				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
+					"r": 0.12549020349979401,
+					"g": 0.3803921639919281,
+					"b": 1,
 					"a": 1
 				},
 				"bordercolor":
@@ -1379,8 +1379,8 @@
 			},
 			"openbuttonkey": "F2",
 			"position": "NewEnumerator3",
-			"iconmarginx": 20,
-			"iconmarginy": 20,
+			"iconmarginx": 0,
+			"iconmarginy": 0,
 			"iconopacity": 1,
 			"customtextopacity": 0,
 			"customtexthorizontalalignment": "HAlign_Right",
@@ -1395,8 +1395,8 @@
 		},
 		"miscsettings":
 		{
-			"isplayerslistenabled": false,
-			"istribeslistenabled": false,
+			"isplayerslistenabled": true,
+			"istribeslistenabled": true,
 			"isdinoscannerenabled": false
 		}
 	}
