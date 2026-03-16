@@ -600,7 +600,7 @@
 				"buttoninfo":
 				{
 					"id": "155CDCC044AA62382A4D0FB7499D271F",
-					"title": "RULES",
+					"title": "RULES / EXTRA INFO",
 					"position": "NewEnumerator1",
 					"normal":
 					{
@@ -729,14 +729,14 @@
 				{
 					"title": "PANEL 2",
 					"titlejustification": "Left",
-					"text": "THIS IS AN UNEDITED PAGE",
+					"text": "<RichColor Color=\"0.27,0.55,1,1\">LUSTY LOOTERS | WEEKEND RATES</>\r\n\r\nEvery <RichColor Color=\"0.27,0.55,1,1\">Saturday</> and <RichColor Color=\"0.27,0.55,1,1\">Sunday</>, the cluster runs boosted rates to help you make the most of your weekend.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">Active Weekend Multipliers</>\r\n\r\nHarvesting: <RichColor Color=\"0.27,0.55,1,1\">3x</> ●\r\nTaming: <RichColor Color=\"0.27,0.55,1,1\">10x</> ●\r\nExperience: <RichColor Color=\"0.27,0.55,1,1\">2x</> ●\r\nIncubation: <RichColor Color=\"0.27,0.55,1,1\">50x</> ●\r\nMature Speed: <RichColor Color=\"0.27,0.55,1,1\">100x</> ●\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SCHEDULE</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">When Do Rates Apply</>\r\n\r\nBoosted rates are active every Saturday and Sunday ●\r\nRates apply across all maps in the cluster simultaneously ●\r\nStandard rates resume on Monday ●\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">NOTES</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">General Information</>\r\n\r\nWeekend rates are applied automatically — no action is required from players ●\r\nRate changes will be announced in Discord ●\r\nSchedule is subject to change at administration discretion ●\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">WEEKEND RATES NOTICE</>\r\n\r\nWeekend rates are provided as a benefit to the <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> community.\r\nThese rates apply across all maps and services within the cluster.\r\n\r\nFor questions or concerns, open a ticket in Discord.",
 					"textjustification": "Center",
 					"backgroundcolor":
 					{
 						"r": 0,
 						"g": 0.0078429998829960823,
 						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
+						"a": 0
 					},
 					"usecustombackgroundimage": false,
 					"custombackgroundimageurl": ""
