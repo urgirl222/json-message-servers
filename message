@@ -798,7 +798,7 @@
 				"buttoninfo":
 				{
 					"id": "1A6C7E804BA08F281D489586FD3E02D4",
-					"title": "OUR WEBSTORE",
+					"title": "OUR WEBSITE",
 					"position": "NewEnumerator0",
 					"normal":
 					{
@@ -1367,7 +1367,7 @@
 			"showicon": true,
 			"hideafterduration": 0,
 			"usecustomicon": true,
-			"customiconurl": "https://i.imgur.com/tN0xFhy.png",
+			"customiconurl": "https://i.imgur.com/3Lg6dnR.png",
 			"usecustomtext": false,
 			"customtext": "",
 			"customtextcolor":
