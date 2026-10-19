@@ -1,1403 +1,1091 @@
-{
-	"Atomic":
-	{
-		"title": "LUSTY LOOTERS",
-		"titlecolor":
-		{
-			"r": 0.046278595924377441,
-			"g": 0.42179340124130249,
-			"b": 1,
-			"a": 1
-		},
-		"tabs": [
-			{
-				"id": "4A0EA3AD416880C1B0C93B9D542BF34E",
-				"buttoninfo":
-				{
-					"id": "4A0EA3AD416880C1B0C93B9D542BF34E",
-					"title": "WELCOME TO LUSTY LOOTERS",
-					"position": "NewEnumerator0",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"borderthickness": 0.19624438881874084,
-						"cornerradius": 1
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 1
-						},
-						"borderthickness": 0.20327779650688171,
-						"cornerradius": 1
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705882668495178,
-							"b": 0.50980395078659058,
-							"a": 0
-						},
-						"borderthickness": 0.10000000149011612,
-						"cornerradius": 0
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				},
-				"panelspacing": 10,
-				"layout": "NewEnumerator2",
-				"panel1":
-				{
-					"title": "<RichColor Color=\"0.27,0.55,1,1\">WELCOME TO LUSTY LOOTERS</>",
-					"titlejustification": "Left",
-					"text": "This dashboard serves as the central command interface for the <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> cluster.\r\nAll essential systems, progression paths, tools, and announcements originate here.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">CLUSTER OVERVIEW</>\r\n\r\n● Fully CROSSPLAY enabled across all supported platforms\r\n● Hosted within the OCE region\r\n● Independently self hosted infrastructure\r\n● Performance optimized hardware environment\r\n● Designed for long term stability\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">CORE PHILOSOPHY</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> is not built for casual survival.\r\nIt is structured around deliberate progression, risk weighted decision making, and meaningful PvE challenge. \r\n\r\nThe world should be dangerous. That is intentional.\r\n\r\nEvery system within the cluster supports:\r\n\r\n● Reward earned progression\r\n● Consequence driven survival\r\n● Custom built mechanics\r\n● Active long term development\r\n● Community integrated feedback\r\n\r\nThis is a cluster designed to evolve, not stagnate.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SYSTEMS & STRUCTURE</>\r\n\r\nProgression systems are layered and intentional.\r\nCustom features are integrated to enhance challenge without trivializing survival.\r\n\r\nReview all available tabs carefully.\r\nUnderstanding the systems is part of the progression experience.\r\n\r\nThe full mod list is displayed on the right side of this dashboard.\r\n\r\nOngoing refinements and system expansions will continue as development progresses.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SUPPORT & ADMINISTRATION</>\r\n\r\nIf you experience technical issues or wish to provide structured feedback, contact the\r\n<RichColor Color=\"0.27,0.55,1,1\">Lusty Looters Administration Team</>.\r\n\r\nParticipation is valued.\r\nCommitment is rewarded.\r\n\r\nWelcome to <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</>.",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0,
-						"b": 0,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel2":
-				{
-					"title": "<RichColor Color=\"0.27,0.55,1,1\">OUR MODS</>",
-					"titlejustification": "Right",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">LUSTY LOOTERS – MOD LIST</>\r\n\r\nThis cluster runs a carefully selected mod list built around progression, balance, and performance.\r\nEverything here serves a purpose. Nothing is added without reason.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">STRUCTURES & BUILDING</>\r\n\r\nCybers Structures QoL+ Crossplay ●\r\nArkitect Structures Remastered ●\r\nJVH Landscaping ●\r\nVisual Storage QoL ●\r\n\r\nImproved building freedom while keeping structure limits and progression intact.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">CREATURES & GAMEPLAY EXPANSION</>\r\n\r\nPaleo ARK Evolution Apex Predators Crossplay ●\r\nPaleo ARK Evolution Hard Hitting Herbivores ●\r\nShiny Dinos Ascended ●\r\nNo Untameables ●\r\nVanilla with Sprinkles ●\r\n\r\nWild dinos hit harder, look better, and feel more meaningful.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">UTILITY & QUALITY OF LIFE</>\r\n\r\nCliffans Backpacks ●\r\nInventory Backup Saver ●\r\nDino Color Tokens ●\r\nSuper Spyglass Plus ●\r\nDino Depot ●\r\nTROCKII Potions ●\r\n\r\nThese systems remove unnecessary frustration while keeping survival challenging.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">UI, ECONOMY & SYSTEMS</>\r\n\r\nLethal Quests Ascended UI ●\r\nMX-E Ark Shop UI ●\r\nASA Bot Companion ●\r\n\r\nCore systems that power quests, economy, and progression.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">ADMIN & BACKEND</>\r\n\r\nASA API Utils ●\r\nAwesome ARK Tools ●\r\nAtomic Server Manager ●\r\n\r\nAll backend tools are actively managed within the\r\n<RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> cluster to ensure stability and long term consistency.",
-					"textjustification": "Right",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.0010416667209938169
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel3":
-				{
-					"title": "PANEL 3",
-					"titlejustification": "Left",
-					"text": "PANEL 3 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel4":
-				{
-					"title": "PANEL 4",
-					"titlejustification": "Left",
-					"text": "PANEL 4 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel5":
-				{
-					"title": "PANEL 5",
-					"titlejustification": "Left",
-					"text": "PANEL 5 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				}
-			},
-			{
-				"id": "97FE8526458F411A30BC7D908FB9719E",
-				"buttoninfo":
-				{
-					"id": "97FE8526458F411A30BC7D908FB9719E",
-					"title": "SERVER SETTINGS",
-					"position": "NewEnumerator0",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"borderthickness": 0.19624438881874084,
-						"cornerradius": 1
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 1
-						},
-						"borderthickness": 0.20327779650688171,
-						"cornerradius": 1
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705882668495178,
-							"b": 0.50980395078659058,
-							"a": 0
-						},
-						"borderthickness": 0.10000000149011612,
-						"cornerradius": 0
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				},
-				"panelspacing": 10,
-				"layout": "NewEnumerator4",
-				"panel1":
-				{
-					"title": "",
-					"titlejustification": "Center",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">BREEDING SETTINGS</>\r\n\r\nThe following values apply across all maps within the <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> cluster.\r\n\r\nBabyMatureSpeedMultiplier = 50\r\nBabyFoodConsumptionSpeedMultiplier = 100\r\nBabyCuddleIntervalMultiplier = 0.038333333\r\nBabyCuddleGracePeriodMultiplier = 1\r\nBabyCuddleLoseImprintQualitySpeedMultiplier = 1\r\nBabyImprintAmountMultiplier = 1\r\nBabyImprintingStatScaleMultiplier = 1\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">WHAT THIS MEANS</>\r\n\r\n● Babies mature 50× faster than official rates\r\n● Food drains quickly during growth, plan accordingly\r\n● Imprint timers are significantly reduced\r\n● Imprint percentage per cuddle remains standard\r\n● Imprint stat bonuses remain official scaling\r\n\r\nBreeding is accelerated, but not inflated.\r\nYou still need proper management and preparation.\r\n\r\nStat scaling stays balanced across the cluster to prevent overpowered lines while keeping progression efficient.",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 3.8805108432127255e-11
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel2":
-				{
-					"title": "",
-					"titlejustification": "Center",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">HARVEST SETTINGS</>\r\n\r\nThe following harvesting values apply to all maps within the <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> cluster.\r\n\r\nHarvestAmountMultiplier = 3\r\nHarvestHealthMultiplier = 5\r\nResourcesRespawnPeriodMultiplier = 1.0\r\nItemStackSizeMultiplier = 20\r\nStructurePreventResourceRadiusMultiplier = 1.0\r\nUseOptimizedHarvestingHealth = True\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SETTING BREAKDOWN</>\r\n\r\n● 3× resources per harvest ●\r\n● 5× node health (more hits per node) ●\r\n● Official resource respawn rate (1×) ●\r\n● 20× stack sizes ●\r\n● Official structure resource radius ●\r\n● Optimized harvesting enabled ●\r\n\r\nThese values increase farming efficiency while keeping respawn rates and map stability balanced across the cluster.",
-					"textjustification": "Center",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel3":
-				{
-					"title": "",
-					"titlejustification": "Center",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">GENERAL SETTINGS</>\r\n\r\nThe following core values apply across the <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> cluster.\r\n\r\nPvE Enabled\r\nMax Wild Level: 250\r\nXP Multiplier: 1×\r\nTaming Speed: 5×\r\nPrevent Spawn Animations: Enabled\r\nOptimized Harvesting Health: Enabled\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">DAY & NIGHT CYCLE</>\r\n\r\nFull Cycle Length: ~4h 30m\r\nDay Length: ~3h\r\nNight Length: ~1h 30m\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">COMBAT SCALING</>\r\n\r\nWild Dino Damage: 2×\r\nPlayer Resistance: 3×\r\nPlayer Damage: 1×\r\nStructure Resistance: 0.6\r\nTamed Dino Damage: 1×\r\nTamed Dino Resistance: 1×\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SETTING BREAKDOWN</>\r\n\r\n● PvE-focused environment with structured progression ●\r\n● Higher wild dino damage for increased difficulty ●\r\n● Increased player resistance for survivability balance ●\r\n● Tamed combat values remain controlled to prevent power creep ●\r\n● Structure resistance adjusted for managed durability ●\r\n\r\nThese settings keep the cluster challenging without inflating stats or trivializing survival.",
-					"textjustification": "Right",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel4":
-				{
-					"title": "PANEL 4",
-					"titlejustification": "Left",
-					"text": "PANEL 4 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel5":
-				{
-					"title": "PANEL 5",
-					"titlejustification": "Left",
-					"text": "PANEL 5 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				}
-			},
-			{
-				"id": "E8BCF58045A4C43556C008B5BB2EB6BF",
-				"buttoninfo":
-				{
-					"id": "E8BCF58045A4C43556C008B5BB2EB6BF",
-					"title": "PLUGIN INFO / COMMANDS",
-					"position": "NewEnumerator1",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"borderthickness": 0.19624438881874084,
-						"cornerradius": 1
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 1
-						},
-						"borderthickness": 0.20327779650688171,
-						"cornerradius": 1
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705882668495178,
-							"b": 0.50980395078659058,
-							"a": 0
-						},
-						"borderthickness": 0.10000000149011612,
-						"cornerradius": 0
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				},
-				"panelspacing": 10,
-				"layout": "NewEnumerator12",
-				"panel1":
-				{
-					"title": "",
-					"titlejustification": "Left",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">DINO UTILITIES | ENABLED COMMANDS & PRICES</>\r\n\r\nDino Utilities is a powerful automation and management plugin designed to streamline breeding, cryopodding, stat management, and general dino control. It reduces repetitive tasks, improves quality of life, and provides advanced control over your creatures while maintaining balance through cooldowns and Gold Nugget costs.\r\n\r\nAll commands have a 5 second cooldown unless otherwise stated.\r\nSome commands require Gold Nuggets.\r\n\r\nUse commands in global or tribe chat.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">GENERAL</>\r\n\r\n● /dinohelp — FREE ●  \r\nDisplays all available Dino Utilities commands in your console (15s cooldown)\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">BREEDING & BABIES</>\r\n\r\n● /claimbabies — 1000 Gold Nuggets ●  \r\nClaims nearby babies (auto cryopods enabled, max 20)\r\n\r\n● /hatch — 5000 Gold Nuggets ●  \r\nInstantly hatches the fertilized egg you are looking at\r\n\r\n● /givebirth — 1500 Gold Nuggets ●  \r\nForces the dino you are looking at to give birth\r\n\r\n● /raisebaby — 1500 Gold Nuggets ●  \r\nInstantly raises the baby you are looking at\r\n\r\n● /imprint — 3250 Gold Nuggets ●  \r\nFully imprints the baby you are looking at\r\n\r\n● /imprintchange — 1500 Gold Nuggets ●  \r\nTransfers imprint ownership\r\n\r\n● /matedinos — 5 Gold Nuggets ●  \r\nEnables mating for dinos in range\r\n\r\n● /matenow — 2000 Gold Nuggets ●  \r\nForces immediate mating on the targeted dino\r\n\r\n● /resetmating — 500 Gold Nuggets ●  \r\nResets mating cooldown\r\n\r\n● /fertile — 3500 Gold Nuggets ●  \r\nRemoves neuter on targeted dino\r\n\r\n● /fertiledinos — 5000 Gold Nuggets ●  \r\nRemoves neuter on dinos in range\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">CRYOPOD & MANAGEMENT</>\r\n\r\n● /pod — FREE ●  \r\nCryopods the dino you are looking at (requires cryopod)\r\n\r\n● /pods — 10 Gold Nuggets ●  \r\nCryopods dinos in range (max 20, requires cryopods)\r\n\r\n● /feed — 1500 Gold Nuggets ●  \r\nFeeds dinos in range\r\n\r\n● /renamedinos 'Name Here' — 5 Gold Nuggets ●  \r\nRenames dinos in range  \r\nExample: /renamedinos 'Boss Rex'\r\n\r\n● /turretmode on or off — FREE ●  \r\nToggles turret mode on dinos in range\r\n\r\n● /wake — 5 Gold Nuggets ●  \r\nWakes the targeted dino\r\n\r\n● /whip — FREE ●  \r\nWhips targeted dino\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">GENETICS & STATS</>\r\n\r\n● /cg — FREE ●  \r\nChanges gender of targeted dino\r\n\r\n● /neuter — 5 Gold Nuggets ●  \r\nNeuters targeted dino\r\n\r\n● /neuterdinos — 5 Gold Nuggets ●  \r\nNeuters dinos in range\r\n\r\n● /nomatedinos — 5 Gold Nuggets ●  \r\nDisables mating in range\r\n\r\n● /dmindwipe — 2500 Gold Nuggets ●  \r\nMindwipes targeted dino stats\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">CLONING & UTILITY</>\r\n\r\n● /finishclone — 5000 Gold Nuggets ●  \r\nInstantly finishes cloning in Tek Cloning Chamber\r\n\r\n● /dkill — 25 Gold Nuggets ●  \r\nKills targeted dino\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\n● Most commands require you to look directly at your own dino  \r\n● Foundation distance limits apply to several commands  \r\n● Cryopod required commands require pods in inventory  \r\n● Some species are blacklisted  \r\n● Gold Nuggets are deducted automatically when required  ",
-					"textjustification": "Center",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0,
-						"b": 0,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel2":
-				{
-					"title": "",
-					"titlejustification": "Left",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">ANTI PVE GRIEFING | PROTECTION SETTINGS</>\r\n\r\nAnti PvE Griefing is a protection plugin designed to prevent common trolling and griefing behavior on PvE servers. It safeguards players, dinos, structures, inventories, and eggs from unauthorized interaction while still allowing controlled ally permissions.\r\n\r\nAdmins ignore protection rules.\r\n\r\nProtection applies automatically. No chat commands required.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">PLAYER PROTECTION</>\r\n\r\n● Offline Protection — DISABLED  \r\nThis setting would allow damage to players after they log out. It is disabled.\r\n\r\n● Dragging Other Players — BLOCKED  \r\nPlayers cannot grab or drag other players\r\n\r\n● Dino Carry — BLOCKED  \r\nPlayers cannot carry other tribe dinos  \r\nAllies are allowed to carry allied dinos\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">STRUCTURE & ITEM PROTECTION</>\r\n\r\n● Item Pickup — BLOCK ALL  \r\nPlayers cannot pick up dropped items from other tribes  \r\nAllies are allowed\r\n\r\n● Fertilized Egg Pickup — BLOCKED  \r\nPrevents picking up other tribes fertilized eggs  \r\nAllies are allowed\r\n\r\n● Structure Power Control — BLOCKED  \r\nPlayers cannot turn generators or structures on or off  \r\nAllies are allowed  \r\nUnlocked structures can still be interacted with\r\n\r\n● Inventory Viewing — BLOCKED  \r\nPlayers cannot view other tribe inventories  \r\nStructures with PIN codes are ignored  \r\nUnlocked structures are ignored  \r\nAllies are not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">DINO MANAGEMENT</>\r\n\r\n● Algae Collecting From Other Archelon — BLOCKED  \r\nPrevents harvesting algae from another tribe’s Archelon  \r\nAllies are not allowed\r\n\r\n● Destroy Decayed Dinos — ENABLED  \r\nAutomatically removes decayed dinos\r\n\r\n● Cross Tribe Dino Mating — DISABLED  \r\nDinos from different tribes cannot mate  \r\nAllies are not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">EGG MANAGEMENT</>\r\n\r\n● Auto Destroy Fertilized Eggs — DISABLED  \r\nNo automatic egg destruction  \r\nConfigured delay is 30 seconds but currently inactive\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SPECIAL STRUCTURE RULES</>\r\n\r\n● Oil Pumps — AUTO UNLOCK ON PLACEMENT  \r\nCannot be manually locked\r\n\r\n● Tree Sap Taps — AUTO UNLOCK ON PLACEMENT  \r\nCannot be manually locked\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\n● Protection applies automatically server wide  \r\n● Admins bypass protection rules  \r\n● Ally permissions vary per category as listed above  \r\n● Designed specifically for PvE grief prevention  ",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0,
-						"b": 0,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel3":
-				{
-					"title": "",
-					"titlejustification": "Left",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">DEATHGUARD | INVENTORY RECOVERY SYSTEM</>\r\n\r\nDeathGuard securely captures your inventory on death and stores it for controlled recovery. Designed to protect against glitches, crashes, mesh deaths, and world border issues while preventing abuse.\r\n\r\nProtection applies automatically on death.\r\n\r\nUse commands in global or tribe chat where applicable.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">INVENTORY CAPTURE</>\r\n\r\n● Capture On Death — ENABLED ●  \r\nInventory is saved immediately when you die  \r\n\r\n● Equipped Items — INCLUDED ●  \r\n● Hotbar Items — INCLUDED ●  \r\n\r\n● Max Items Per Death — 300 ●  \r\n● Snapshot Cooldown — 60 Seconds ●  \r\n● Retention Period — 30 Days ●  \r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">PLAYER ACCESS</>\r\n\r\n● /dgbodies — DISABLED ●  \r\nDeath listing is not available to regular players  \r\n\r\n● /dgrecover — DISABLED ●  \r\nManual recovery is not available to regular players  \r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">AUTO RECOVERY</>\r\n\r\n● Auto Recovery — ROLE RESTRICTED ●  \r\n\r\nAutomatic recovery is ONLY available to:  \r\n\r\n● Tek_supporter ●  \r\n● Metal_supporter ●  \r\n\r\nAll other players do not have automatic recovery access.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">ADMIN ASSISTANCE</>\r\n\r\n● Glitch / Bug / Mesh / Crash Deaths — ADMIN REVIEW REQUIRED ●  \r\n\r\nIf your death was not your fault, contact an admin.  \r\nApproved recoveries may be manually delivered after verification.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\n● Recovery is blocked if another player loots your bag ●  \r\n● Recovery is blocked if the death is not yours ●  \r\n● Death records expire after 30 days ●  \r\n● Admin decisions are final on disputed recoveries ●  ",
-					"textjustification": "Center",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0,
-						"b": 0,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel4":
-				{
-					"title": "",
-					"titlejustification": "Left",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">LUSTY LOOTERS | MARKETPLACE & QUEST SYSTEM</>\r\n\r\nOur Marketplace and Quest System are fully integrated and powered by Gold Nuggets.\r\n\r\nEarn Gold Nuggets through playtime rewards and quests.  \r\nSpend Gold Nuggets inside the in-game shop UI.\r\n\r\nUse commands in global or tribe chat.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">MARKETPLACE SYSTEM</>\r\n\r\nCurrency — Gold Nuggets ●\r\n\r\nPlaytime Rewards — ENABLED ●\r\n5 Gold Nuggets every 5 minutes  \r\n\r\nDiscord Server Boosters — BONUS REWARDS ●\r\n15 Gold Nuggets every 5 minutes  \r\n\r\nOpen Shop UI — PRESS F1 ●\r\n\r\nAdditional commands available  \r\n/points — Check Balance ●  \r\n/trade 'Player' Amount — Send Gold Nuggets ●  \r\n\r\nShop includes armor sets, potions, utilities, boss tributes, quality of life items, resets and more.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SUPPORTER ACCESS</>\r\n\r\nWood_supporter — Extra purchasable items ●  \r\nStone_supporter — Extra purchasable items ●  \r\nMetal_supporter — Advanced resources unlocked ●  \r\nTek_supporter — Premium resources unlocked ●  \r\n\r\n\r\nSupporter tiers unlock additional shop categories including bulk resources, crafting materials, advanced components, and exclusive utility items not available to standard players. \r\n\r\nHigher tiers unlock premium materials and additional perks.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">QUEST SYSTEM — LETHAL QUESTS ASCENDED</>\r\n\r\nOpen Quest UI — PRESS F3 ●  \r\n\r\nDaily Quests — ENABLED ●  \r\nWeekly Quests — ENABLED ●  \r\n\r\nComplete quests to earn Gold Nuggets.  \r\nObjectives include PvE challenges, combat, gathering, exploration and progression tasks.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">IMPORTANT NOTES</>\r\n\r\nAll purchases are final ●  \r\nSome items execute server commands ●  \r\nInventory space required for kit redemption ●  \r\nGold Nuggets are non refundable unless error occurs ●  ",
-					"textjustification": "Right",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0,
-						"b": 0,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel5":
-				{
-					"title": "",
-					"titlejustification": "Left",
-					"text": "",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0,
-						"b": 0,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				}
-			},
-			{
-				"id": "155CDCC044AA62382A4D0FB7499D271F",
-				"buttoninfo":
-				{
-					"id": "155CDCC044AA62382A4D0FB7499D271F",
-					"title": "RULES / EXTRA INFO",
-					"position": "NewEnumerator1",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"borderthickness": 0.19624438881874084,
-						"cornerradius": 1
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 1
-						},
-						"borderthickness": 0.20327779650688171,
-						"cornerradius": 1
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705882668495178,
-							"b": 0.50980395078659058,
-							"a": 0
-						},
-						"borderthickness": 0.10000000149011612,
-						"cornerradius": 0
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				},
-				"panelspacing": 10,
-				"layout": "NewEnumerator2",
-				"panel1":
-				{
-					"title": "RULES",
-					"titlejustification": "Center",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">LUSTY LOOTERS | CODE OF CONDUCT</>\r\n\r\nThis document outlines the rules and enforcement standards for all players within the <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> cluster.\r\nBy accessing any server or Discord service, you agree to the following terms.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SECTION I | DISCORD CONDUCT</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">1.1 Personal Conduct</>\r\n\r\n● Hate speech, slurs, threats, defamation, or targeted harassment are prohibited\r\n● Trolling, baiting, or intentionally disruptive behavior is not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">1.2 Content Restrictions</>\r\n\r\n● NSFW, shock content, or illegal material is prohibited\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">1.3 Channel Use</>\r\n\r\n● Channels must be used for their intended purpose\r\n● Derailing discussions or misusing support channels is not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">1.4 Spam & Promotion</>\r\n\r\n● Unsolicited advertising or external invites are prohibited\r\n● Excessive pinging, spam, or link flooding is not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">1.5 Moderator Respect</>\r\n\r\n● Do not argue with moderators in public channels\r\n● Appeals must be handled through the ticket system\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SECTION II | SERVER CONDUCT</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">2.1 Player Behavior</>\r\n\r\n● Griefing of any kind is prohibited\r\n● PvP-style harassment (flyer pickups, drowning tames, bait stealing, etc.) is punishable\r\n● Abandoned starter assets may be cleared by administration\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">2.2 Exploit Prohibition</>\r\n\r\n● Third-party tools such as ESP, macros, or bots are not allowed\r\n● Bugs or unintended mechanics must be reported, not exploited\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">2.3 Building Regulations</>\r\n\r\n● Building in artifact caves, mission zones, meshable, or restricted areas is prohibited\r\n● Excessive foundation spam is not allowed\r\n● Obstructive or performance-heavy builds may be removed at administration discretion\r\n● Bases inactive for 30 days may be cleared\r\n● Blocking or exploiting decay mechanics is prohibited\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">2.4 Naming Rules</>\r\n\r\n● Impersonating administration members is prohibited\r\n● Offensive, political, or intentionally disruptive names are not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SECTION III | TAMES & WILDLIFE</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">3.1 Taming Conduct</>\r\n\r\n● Do not interfere with active tame attempts\r\n● Killing passive tames is prohibited\r\n● Trap griefing or kiting wild creatures into bases is not allowed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">3.2 Dino Limits</>\r\n\r\n● There is no fixed dino cap per tribe\r\n● Excess creatures causing performance issues may require reduction\r\n● Failure to comply may result in administrative removal\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">3.3 Abuse of Tames</>\r\n\r\n● Cloning glitches or exploit-based taming are prohibited\r\n● Illegitimate creatures may be removed without compensation\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SECTION IV | ADMIN STANDARDS</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">4.1 Neutrality</>\r\n\r\n● Admin tools may not be used for personal progression\r\n● Administrative actions must serve legitimate purposes\r\n● Major actions may be logged and reviewed\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">4.2 Command Logging</>\r\n\r\n● Administrative actions affecting players must be logged\r\n● Major actions require Head Admin or Server Manager approval\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">4.3 Conflict of Interest</>\r\n\r\n● Admins may not moderate their own tribe, friends, or alternate accounts\r\n● All alternate accounts must be declared\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SECTION V | CLUSTER ENFORCEMENT</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">5.1 PvP Actions Within PvE</>\r\n\r\n● PvP-style griefing remains punishable\r\n● Examples include drowning, trapping, tame stealing, or base kiting\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">5.2 Rule Interpretation</>\r\n\r\n● Exploiting loopholes or harmful behavior may be addressed at administration discretion\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">5.3 Ban Appeals</>\r\n\r\n● All appeals must be submitted through the ticket system\r\n● Final decisions are made by the Server Manager or Owner\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SECTION VI | WEBSTORE POLICY</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">6.1 Use of Webstore Items</>\r\n\r\n● Webstore items must be used as delivered\r\n● Non-blueprint items may not be converted or recreated as blueprints\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">6.2 Monitoring & Tracking</>\r\n\r\n● Saddle and blueprint activity is actively tracked\r\n● Relevant activity is automatically logged for review\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">6.3 Purchased Creatures</>\r\n\r\n● Treated as standard in-game assets once delivered\r\n● Loss due to gameplay is not eligible for replacement\r\n● Verified server-side errors may be reviewed at administration discretion\r\n● All administrative decisions are final\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">6.4 Refunds</>\r\n\r\n● Items removed due to rule violations are not eligible for refund or replacement\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">ENFORCEMENT NOTICE</>\r\n\r\nBy playing on <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</>, you accept all listed terms.\r\nThese rules apply across all maps and services.\r\n\r\nRepeated misconduct or severe violations may result in formal enforcement action without further notice.",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel2":
-				{
-					"title": "PANEL 2",
-					"titlejustification": "Left",
-					"text": "<RichColor Color=\"0.27,0.55,1,1\">LUSTY LOOTERS | WEEKEND RATES</>\r\n\r\nEvery <RichColor Color=\"0.27,0.55,1,1\">Saturday</> and <RichColor Color=\"0.27,0.55,1,1\">Sunday</>, the cluster runs boosted rates to help you make the most of your weekend.\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">Active Weekend Multipliers</>\r\n\r\nHarvesting: <RichColor Color=\"0.27,0.55,1,1\">3x</> ●\r\nTaming: <RichColor Color=\"0.27,0.55,1,1\">10x</> ●\r\nExperience: <RichColor Color=\"0.27,0.55,1,1\">2x</> ●\r\nIncubation: <RichColor Color=\"0.27,0.55,1,1\">50x</> ●\r\nMature Speed: <RichColor Color=\"0.27,0.55,1,1\">100x</> ●\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">SCHEDULE</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">When Do Rates Apply</>\r\n\r\nBoosted rates are active every Saturday and Sunday ●\r\nRates apply across all maps in the cluster simultaneously ●\r\nStandard rates resume on Monday ●\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">NOTES</>\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">General Information</>\r\n\r\nWeekend rates are applied automatically — no action is required from players ●\r\nRate changes will be announced in Discord ●\r\nSchedule is subject to change at administration discretion ●\r\n\r\n<RichColor Color=\"0.27,0.55,1,1\">WEEKEND RATES NOTICE</>\r\n\r\nWeekend rates are provided as a benefit to the <RichColor Color=\"0.27,0.55,1,1\">Lusty Looters</> community.\r\nThese rates apply across all maps and services within the cluster.\r\n\r\nFor questions or concerns, open a ticket in Discord.",
-					"textjustification": "Center",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel3":
-				{
-					"title": "PANEL 3",
-					"titlejustification": "Left",
-					"text": "PANEL 3 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel4":
-				{
-					"title": "PANEL 4",
-					"titlejustification": "Left",
-					"text": "PANEL 4 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel5":
-				{
-					"title": "PANEL 5",
-					"titlejustification": "Left",
-					"text": "PANEL 5 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				}
-			}
-		],
-		"links": [
-			{
-				"id": "1A6C7E804BA08F281D489586FD3E02D4",
-				"url": "www.lustylooters.com",
-				"buttoninfo":
-				{
-					"id": "1A6C7E804BA08F281D489586FD3E02D4",
-					"title": "OUR WEBSITE",
-					"position": "NewEnumerator0",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"borderthickness": 0.19976109266281128,
-						"cornerradius": 1
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.015685999765992165,
-							"b": 0.043136999011039734,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 1
-						},
-						"borderthickness": 0.19976109266281128,
-						"cornerradius": 1
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705900549888611,
-							"b": 0.50980401039123535,
-							"a": 0
-						},
-						"borderthickness": 0.10000000149011612,
-						"cornerradius": 1
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				}
-			},
-			{
-				"id": "4D4DA15940A554DA1FB507AC227A27B2",
-				"url": "https://discord.gg/FuvujXuhxE",
-				"buttoninfo":
-				{
-					"id": "4D4DA15940A554DA1FB507AC227A27B2",
-					"title": "LUSTY LOOTERS DISCORD",
-					"position": "NewEnumerator0",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"borderthickness": 0.19976109266281128,
-						"cornerradius": 1
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.015685999765992165,
-							"b": 0.043136999011039734,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 1
-						},
-						"borderthickness": 0.19976109266281128,
-						"cornerradius": 1
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705900549888611,
-							"b": 0.50980401039123535,
-							"a": 0
-						},
-						"borderthickness": 0.10000000149011612,
-						"cornerradius": 1
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				}
-			},
-			{
-				"id": "EA528BE04A95B2A86350B595C84C54DA",
-				"url": "https://survivetheark.com",
-				"buttoninfo":
-				{
-					"id": "EA528BE04A95B2A86350B595C84C54DA",
-					"title": "ARK COMMUNITY CRUNCH NEWS",
-					"position": "NewEnumerator1",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.00060700002359226346,
-							"g": 0.028426000848412514,
-							"b": 0.07618500292301178,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"borderthickness": 0.19976109266281128,
-						"cornerradius": 1
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.015685999765992165,
-							"b": 0.043136999011039734,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0.68627452850341797,
-							"b": 0.0039215688593685627,
-							"a": 1
-						},
-						"borderthickness": 0.19976109266281128,
-						"cornerradius": 1
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0,
-							"g": 0.027450999245047569,
-							"b": 0.074510000646114349,
-							"a": 0
-						},
-						"foregroundcolor":
-						{
-							"r": 0.12549020349979401,
-							"g": 0.3803921639919281,
-							"b": 1,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0,
-							"g": 0.44705900549888611,
-							"b": 0.50980401039123535,
-							"a": 0
-						},
-						"borderthickness": 0.10000000149011612,
-						"cornerradius": 1
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				}
-			}
-		],
-		"linkbuttondefaultsettings":
-		{
-			"id": "",
-			"title": "",
-			"position": "NewEnumerator0",
-			"normal":
-			{
-				"backgroundcolor":
-				{
-					"r": 0.00060700002359226346,
-					"g": 0.028426000848412514,
-					"b": 0.07618500292301178,
-					"a": 0
-				},
-				"foregroundcolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"borderthickness": 0.19976109266281128,
-				"cornerradius": 1
-			},
-			"hovered":
-			{
-				"backgroundcolor":
-				{
-					"r": 0,
-					"g": 0.015685999765992165,
-					"b": 0.043136999011039734,
-					"a": 0
-				},
-				"foregroundcolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
-					"a": 1
-				},
-				"borderthickness": 0.19976109266281128,
-				"cornerradius": 1
-			},
-			"pressed":
-			{
-				"backgroundcolor":
-				{
-					"r": 0,
-					"g": 0.027450999245047569,
-					"b": 0.074510000646114349,
-					"a": 0
-				},
-				"foregroundcolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 0,
-					"g": 0.44705900549888611,
-					"b": 0.50980401039123535,
-					"a": 0
-				},
-				"borderthickness": 0.10000000149011612,
-				"cornerradius": 1
-			},
-			"selected":
-			{
-				"backgroundcolor":
-				{
-					"r": 1,
-					"g": 1,
-					"b": 1,
-					"a": 1
-				},
-				"foregroundcolor":
-				{
-					"r": 0,
-					"g": 0,
-					"b": 0,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 1,
-					"g": 0,
-					"b": 0,
-					"a": 1
-				},
-				"borderthickness": 0.10000000000000001,
-				"cornerradius": 0.5
-			}
-		},
-		"tabbuttondefaultsettings":
-		{
-			"id": "",
-			"title": "",
-			"position": "NewEnumerator0",
-			"normal":
-			{
-				"backgroundcolor":
-				{
-					"r": 0.00060700002359226346,
-					"g": 0.028426000848412514,
-					"b": 0.07618500292301178,
-					"a": 0
-				},
-				"foregroundcolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"borderthickness": 0.19624438881874084,
-				"cornerradius": 1
-			},
-			"hovered":
-			{
-				"backgroundcolor":
-				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
-					"a": 0
-				},
-				"foregroundcolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 1,
-					"g": 0.68627452850341797,
-					"b": 0.0039215688593685627,
-					"a": 1
-				},
-				"borderthickness": 0.20327779650688171,
-				"cornerradius": 1
-			},
-			"pressed":
-			{
-				"backgroundcolor":
-				{
-					"r": 0,
-					"g": 0.027450999245047569,
-					"b": 0.074510000646114349,
-					"a": 0
-				},
-				"foregroundcolor":
-				{
-					"r": 0.12549020349979401,
-					"g": 0.3803921639919281,
-					"b": 1,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 0,
-					"g": 0.44705882668495178,
-					"b": 0.50980395078659058,
-					"a": 0
-				},
-				"borderthickness": 0.10000000149011612,
-				"cornerradius": 0
-			},
-			"selected":
-			{
-				"backgroundcolor":
-				{
-					"r": 1,
-					"g": 1,
-					"b": 1,
-					"a": 1
-				},
-				"foregroundcolor":
-				{
-					"r": 0,
-					"g": 0,
-					"b": 0,
-					"a": 1
-				},
-				"bordercolor":
-				{
-					"r": 1,
-					"g": 0,
-					"b": 0,
-					"a": 1
-				},
-				"borderthickness": 0.10000000000000001,
-				"cornerradius": 0.5
-			}
-		},
-		"paneldefaultbackgroundcolor":
-		{
-			"r": 0,
-			"g": 0.0078429998829960823,
-			"b": 0.019608000293374062,
-			"a": 0.7019609808921814
-		},
-		"iconsettings":
-		{
-			"showicon": true,
-			"hideafterduration": 0,
-			"usecustomicon": true,
-			"customiconurl": "https://i.imgur.com/3Lg6dnR.png",
-			"usecustomtext": false,
-			"customtext": "",
-			"customtextcolor":
-			{
-				"r": 1,
-				"g": 1,
-				"b": 1,
-				"a": 1
-			},
-			"openbuttonkey": "F2",
-			"position": "NewEnumerator3",
-			"iconmarginx": 0,
-			"iconmarginy": 0,
-			"iconopacity": 1,
-			"customtextopacity": 0,
-			"customtexthorizontalalignment": "HAlign_Right",
-			"customtextverticalalignment": "VAlign_Fill",
-			"customtextfontsize": 0
-		},
-		"showsettings":
-		{
-			"onplayerlogon": true,
-			"fornewplayersonly": false,
-			"onnextplayerlogonversion": 1
-		},
-		"miscsettings":
-		{
-			"isplayerslistenabled": true,
-			"istribeslistenabled": true,
-			"isdinoscannerenabled": false
-		}
-	}
-}
+[
+  {
+    "id": "general_feedback",
+    "title": "General Feedback",
+    "description": "Share general feedback, suggestions, concerns, or ideas for Lusty Looters at any time. Discord login and a linked ARK account are required. This form does not award Gold Nuggets.",
+    "reward": 0,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": true,
+    "permanent": true,
+    "questions": [
+      {
+        "key": "feedback_area",
+        "label": "What is your feedback about?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "General server feedback",
+          "Website",
+          "Mods",
+          "Rates or settings",
+          "Events",
+          "Rules or clarity",
+          "Support experience",
+          "Other"
+        ]
+      },
+      {
+        "key": "feedback_message",
+        "label": "Tell us your feedback.",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1200,
+        "options": []
+      },
+      {
+        "key": "improvement_idea",
+        "label": "What would you change or improve?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1000,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "",
+      "commands": []
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Thanks for helping shape Lusty Looters.",
+      "reviewMessage": "",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  },
+  {
+    "id": "quest_ideas",
+    "title": "Quest Ideas",
+    "description": "Submit a detailed quest idea for Lusty Looters. Complete, useful submissions award 5,000 Gold Nuggets once. Discord login and a linked ARK account are required.",
+    "reward": 15000,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": false,
+    "permanent": false,
+    "questions": [
+      {
+        "key": "quest_name",
+        "label": "What would you call this quest?",
+        "type": "text",
+        "required": true,
+        "maxLength": 120,
+        "options": []
+      },
+      {
+        "key": "quest_type",
+        "label": "What type of quest is it?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Exploration",
+          "Creature hunting or taming",
+          "Boss or combat",
+          "Building or crafting",
+          "Collection or delivery",
+          "Tribe or co-op",
+          "Puzzle or mystery",
+          "Event quest",
+          "Other"
+        ]
+      },
+      {
+        "key": "quest_concept",
+        "label": "Explain the quest idea and what makes it interesting.",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1600,
+        "options": []
+      },
+      {
+        "key": "quest_steps",
+        "label": "What would players need to do to complete the quest? List the main steps or objectives.",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1600,
+        "options": []
+      },
+      {
+        "key": "map_or_location",
+        "label": "Should this quest use a particular map, biome, cave, arena, or location?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 700,
+        "options": []
+      },
+      {
+        "key": "difficulty",
+        "label": "How difficult should the quest be?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Beginner",
+          "Easy",
+          "Medium",
+          "Hard",
+          "Endgame",
+          "Difficulty should scale",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "repeatability",
+        "label": "How often should players be able to complete it?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Once per player",
+          "Repeatable at any time",
+          "Daily",
+          "Weekly",
+          "Monthly",
+          "During events only",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "suggested_rewards",
+        "label": "What rewards should players receive for completing it?",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1000,
+        "options": []
+      },
+      {
+        "key": "balance_or_exploits",
+        "label": "Could the quest or its rewards be exploited? Explain any limits that might be needed.",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1000,
+        "options": []
+      },
+      {
+        "key": "additional_details",
+        "label": "Add any other details that would help us understand or build the quest.",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1200,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "",
+      "commands": []
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Your reward, **{{reward}}**, has been processed. Thanks for helping shape Lusty Looters.",
+      "reviewMessage": "We saved your response to **{{formTitle}}**. Your **{{reward}}** reward needs a staff check. We will follow up here.",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  },
+  {
+    "id": "server_ping_feedback",
+    "title": "How’s the Server Ping?",
+    "description": "Tell us how the server connection feels from your location. Complete, useful submissions award 5,000 Gold Nuggets once. Discord login and a linked ARK account are required.",
+    "reward": 5000,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": false,
+    "permanent": false,
+    "questions": [
+      {
+        "key": "server_name",
+        "label": "Which server or map did you test?",
+        "type": "text",
+        "required": true,
+        "maxLength": 120,
+        "options": []
+      },
+      {
+        "key": "player_location",
+        "label": "What city, state, or country are you connecting from?",
+        "type": "text",
+        "required": true,
+        "maxLength": 160,
+        "options": []
+      },
+      {
+        "key": "platform",
+        "label": "What platform are you playing on?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Steam",
+          "Epic",
+          "Xbox",
+          "PlayStation",
+          "Windows Store",
+          "Other"
+        ]
+      },
+      {
+        "key": "connection_type",
+        "label": "How is your gaming device connected to the internet?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Ethernet",
+          "Wi-Fi",
+          "Mobile data or hotspot",
+          "Other",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "displayed_ping",
+        "label": "What ping does the server browser or in-game display usually show?",
+        "type": "text",
+        "required": true,
+        "maxLength": 120,
+        "options": []
+      },
+      {
+        "key": "connection_rating",
+        "label": "How would you rate the overall server connection?",
+        "type": "rating",
+        "required": true,
+        "maxLength": 180,
+        "options": []
+      },
+      {
+        "key": "issue_type",
+        "label": "What connection issue do you notice most?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "No noticeable issues",
+          "High ping",
+          "Ping spikes",
+          "Rubberbanding",
+          "Delayed actions or inventories",
+          "Disconnects",
+          "Crashes",
+          "Other"
+        ]
+      },
+      {
+        "key": "when_it_happens",
+        "label": "When do you usually notice the issue?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "I do not notice any issues",
+          "All the time",
+          "During busy hours",
+          "Near large bases",
+          "During boss fights or events",
+          "After restarts",
+          "Randomly"
+        ]
+      },
+      {
+        "key": "comparison_to_before",
+        "label": "Compared with before the relocation, is your connection better or worse?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Much better",
+          "Slightly better",
+          "About the same",
+          "Slightly worse",
+          "Much worse",
+          "I did not play before the relocation"
+        ]
+      },
+      {
+        "key": "details",
+        "label": "Describe how the server feels to play and include any useful details about lag, delays, spikes, or disconnects.",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1200,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "",
+      "commands": []
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Your reward, **{{reward}}**, has been processed. Thanks for helping shape Lusty Looters.",
+      "reviewMessage": "We saved your response to **{{formTitle}}**. Your **{{reward}}** reward needs a staff check. We will follow up here.",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  },
+  {
+    "id": "future_webstore_items_feedback",
+    "title": "Future Webstore Items",
+    "description": "Tell us which optional items or services you would actually want in the Lusty Looters webstore, what would feel worth buying, and what should stay fair for everyone. Completing this form awards 5,000 Gold Nuggets and a Webstore Dino reward once. Discord login and a linked ARK account are required.",
+    "reward": 5000,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": false,
+    "permanent": false,
+    "questions": [
+      {
+        "key": "store_purchase_history",
+        "label": "How often have you bought something from the Lusty Looters webstore?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Never",
+          "Once",
+          "A few times",
+          "Regularly",
+          "Prefer not to say"
+        ]
+      },
+      {
+        "key": "most_interesting_category",
+        "label": "Which type of new store item interests you most?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Cosmetics or character customisation",
+          "Building and decoration",
+          "Creature-related items or services",
+          "Convenience or time savers",
+          "Harvesting or progression boosts",
+          "Gold Nuggets",
+          "Server-wide boosts or events",
+          "Something else",
+          "No new items interest me"
+        ]
+      },
+      {
+        "key": "specific_item_idea",
+        "label": "What specific item or service would you like to see? If none interest you, tell us why.",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1400,
+        "options": []
+      },
+      {
+        "key": "main_reason",
+        "label": "What makes that idea appealing or unappealing to you?",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1000,
+        "options": []
+      },
+      {
+        "key": "acceptable_price",
+        "label": "What price would feel reasonable for that item or service? Use AUD if you can.",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Under $5",
+          "$5–$10",
+          "$11–$20",
+          "$21–$35",
+          "More than $35",
+          "It depends on the item",
+          "I would not buy it"
+        ]
+      },
+      {
+        "key": "purchase_barrier",
+        "label": "What is the biggest reason you might decide not to buy a new store item?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Price",
+          "Unclear value or contents",
+          "Concern about game balance",
+          "Delivery or reliability concerns",
+          "I do not need more items",
+          "I do not buy from game stores",
+          "Something else"
+        ]
+      },
+      {
+        "key": "fairness_preference",
+        "label": "What level of gameplay benefit feels acceptable for a new store item?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Cosmetic only",
+          "Minor convenience",
+          "Moderate convenience",
+          "Stronger boosts with clear limits",
+          "It depends on the item",
+          "No new paid items",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "existing_store_changes",
+        "label": "Is there an existing store item you would change, improve, or remove?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1200,
+        "options": []
+      },
+      {
+        "key": "other_store_ideas",
+        "label": "Any other ideas, limits, or concerns about future webstore items?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1200,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "Webstore Dino reward",
+      "commands": [
+        "RA.Reward {{eosId}} WebstoreDino1"
+      ]
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Your reward, **{{reward}}**, has been processed. Thanks for helping shape Lusty Looters.",
+      "reviewMessage": "We saved your response to **{{formTitle}}**. Your **{{reward}}** reward needs a staff check. We will follow up here.",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  },
+  {
+    "id": "marketplace_price_rebalance_feedback",
+    "title": "Marketplace Price Rebalance Feedback",
+    "description": "Share your feedback on the Lusty Looters Marketplace price rebalance. Complete, useful submissions award 5,000 Gold Nuggets once. Discord login and a linked ARK account are required.",
+    "reward": 5000,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": false,
+    "permanent": false,
+    "questions": [
+      {
+        "key": "overall_rebalance_opinion",
+        "label": "What is your overall opinion of the Marketplace price rebalance?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Strongly support",
+          "Support",
+          "Neutral or unsure",
+          "Do not support",
+          "Strongly oppose"
+        ]
+      },
+      {
+        "key": "general_price_balance",
+        "label": "How do the updated Marketplace prices feel overall?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Still much too cheap",
+          "Slightly too cheap",
+          "About right",
+          "Slightly too expensive",
+          "Much too expensive",
+          "I have not reviewed enough items"
+        ]
+      },
+      {
+        "key": "category_needing_attention",
+        "label": "Which Marketplace category needs the most additional adjustment?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Potions",
+          "Kibble",
+          "Brews and food",
+          "Armour sets",
+          "Equipment kits or equipment",
+          "Cyber Structures",
+          "Player commands",
+          "Tribute items",
+          "Loot Drops",
+          "Quest Resets",
+          "Miscellaneous items or ammunition",
+          "No category needs adjustment",
+          "Other"
+        ]
+      },
+      {
+        "key": "potion_price_balance",
+        "label": "How do the updated potion prices feel?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Still much too cheap",
+          "Slightly too cheap",
+          "About right",
+          "Slightly too expensive",
+          "Much too expensive",
+          "I do not purchase potions"
+        ]
+      },
+      {
+        "key": "potion_drop_price_balance",
+        "label": "How do the updated Potion Drop prices feel?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Still much too cheap",
+          "Slightly too cheap",
+          "About right",
+          "Slightly too expensive",
+          "Much too expensive",
+          "I do not purchase Potion Drops"
+        ]
+      },
+      {
+        "key": "specific_item_feedback",
+        "label": "List any specific item that is still too cheap or too expensive. Include its current price and the price you would recommend.",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1500,
+        "options": []
+      },
+      {
+        "key": "earning_and_spending_balance",
+        "label": "Compared with how quickly you earn Gold Nuggets, how difficult are Marketplace purchases now?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Purchases are still earned far too quickly",
+          "Purchases are earned slightly too quickly",
+          "Earning and spending feel balanced",
+          "Purchases now take slightly too long",
+          "Purchases now take far too long",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "purchase_impact",
+        "label": "How will these changes affect how you use the Marketplace?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "I will save for purchases more carefully",
+          "I will focus more on quests and voting",
+          "I will purchase fewer powerful items",
+          "My Marketplace use will stay about the same",
+          "The new prices will discourage me from using the Marketplace",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "quest_reset_price_balance",
+        "label": "How do the updated Daily and Weekly Quest Reset prices feel?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Still too cheap",
+          "About right",
+          "Too expensive",
+          "Daily Reset should change",
+          "Weekly Reset should change",
+          "I do not purchase Quest Resets"
+        ]
+      },
+      {
+        "key": "additional_price_feedback",
+        "label": "What other Marketplace pricing changes would make the economy feel fair and worthwhile?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1400,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "",
+      "commands": []
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Your reward, **{{reward}}**, has been processed. Thanks for helping shape Lusty Looters.",
+      "reviewMessage": "We saved your response to **{{formTitle}}**. Your **{{reward}}** reward needs a staff check. We will follow up here.",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  },
+  {
+    "id": "custom_alpha_feedback",
+    "title": "Custom Alpha Feedback",
+    "description": "Help decide what direction Lusty Looters should take with Alphas before the new system is released. Tell us whether you would prefer improved normal Alphas, completely new Custom Alphas, a mix of both, and what difficulty, rewards and features would make them worth fighting. Complete, useful submissions award 5,000 Gold Nuggets once. Discord login and a linked ARK account are required.",
+    "reward": 5000,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": false,
+    "permanent": false,
+    "questions": [
+      {
+        "key": "preferred_alpha_direction",
+        "label": "What would you most like us to do with Alphas?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Keep normal ARK Alphas and only improve their rewards",
+          "Keep normal ARK Alphas but make them stronger and improve their rewards",
+          "Add new Custom Alphas alongside normal ARK Alphas",
+          "Replace normal ARK Alphas with new Custom Alphas",
+          "Use a mix of improved normal Alphas and new Custom Alphas",
+          "Keep Alphas mostly as they are now",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "alpha_system_appeal",
+        "label": "How interested are you in a new Custom Alpha system overall?",
+        "type": "rating",
+        "required": true,
+        "maxLength": 180,
+        "options": []
+      },
+      {
+        "key": "difficulty_style",
+        "label": "How should Alpha difficulty work?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Normal Alpha difficulty with better rewards",
+          "Slightly stronger than normal Alphas",
+          "Clear Easy, Medium and Hard tiers",
+          "Difficulty should depend on the creature",
+          "Mostly difficult with rare endgame-level Alphas",
+          "A mix of easier and extremely difficult Alphas",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "alpha_power_level",
+        "label": "How powerful should the strongest Custom Alphas be?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Only a little stronger than normal Alphas",
+          "Strong but manageable with a good tame",
+          "Very strong and require prepared high-end tames",
+          "Extremely strong and intended for groups or endgame players",
+          "It should vary heavily by Alpha difficulty",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "spawn_frequency",
+        "label": "How often should Custom Alphas appear?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Fairly common with smaller rewards",
+          "About as often as normal Alphas",
+          "Rarer than normal Alphas with better rewards",
+          "Very rare with very strong rewards",
+          "Different spawn rates for Easy, Medium and Hard Alphas",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "most_important_feature",
+        "label": "What should be the most important difference between normal Alphas and Custom Alphas?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Much better rewards",
+          "Higher health and damage",
+          "New creatures becoming Alphas",
+          "Different Easy, Medium and Hard difficulty tiers",
+          "Unique colours, size or appearance",
+          "More aggressive behaviour and larger aggro range",
+          "Special mechanics or abilities",
+          "A mixture of all of these",
+          "Other"
+        ]
+      },
+      {
+        "key": "preferred_rewards",
+        "label": "What should Custom Alpha rewards focus on most?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Gold Nuggets",
+          "High-quality saddles",
+          "Armour",
+          "Resources",
+          "Kibble or consumables",
+          "Rare or unique items",
+          "A random mixture of rewards",
+          "Different rewards depending on Alpha difficulty",
+          "Other"
+        ]
+      },
+      {
+        "key": "reward_strength",
+        "label": "How rewarding should Custom Alphas be compared with normal Alphas?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Only slightly better",
+          "Noticeably better",
+          "Much better because they are much harder",
+          "Very high rewards but only if Custom Alphas are rare",
+          "Rewards should scale heavily with difficulty",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "supporter_bonus",
+        "label": "How should Supporter ranks affect Custom Alpha rewards?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "No Supporter bonus",
+          "Small Supporter bonus",
+          "Moderate Supporter bonus",
+          "Strong Supporter bonus",
+          "Higher ranks should progressively improve rewards",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "structure_damage",
+        "label": "Should Custom Alphas be able to damage player structures?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "No structure damage",
+          "Normal creature structure damage",
+          "Increased structure damage",
+          "Only Medium and Hard Alphas should seriously threaten structures",
+          "Yes, strong structure damage should be part of the danger",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "turret_damage",
+        "label": "Should turrets be able to damage Custom Alphas?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Yes, normally",
+          "Yes, but with reduced effectiveness",
+          "Only against Easy Alphas",
+          "No, players should have to fight them directly",
+          "Different rules depending on Alpha difficulty",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "new_alpha_creatures",
+        "label": "What creatures would you like to see become new Custom Alphas?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1400,
+        "options": []
+      },
+      {
+        "key": "reward_ideas",
+        "label": "What specific rewards would make Custom Alphas worth hunting?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1400,
+        "options": []
+      },
+      {
+        "key": "concerns",
+        "label": "What would make Custom Alphas frustrating, unfair or not worth fighting?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1400,
+        "options": []
+      },
+      {
+        "key": "additional_alpha_feedback",
+        "label": "Add any other ideas for how the Alpha system should work.",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1600,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "",
+      "commands": []
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Your reward, **{{reward}}**, has been processed. Thanks for helping shape Lusty Looters.",
+      "reviewMessage": "We saved your response to **{{formTitle}}**. Your **{{reward}}** reward needs a staff check. We will follow up here.",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  },
+  {
+    "id": "harvesting_boost_value_feedback",
+    "title": "Harvesting Boost Value and Duration",
+    "description": "Help us decide whether lower prices, longer durations, or higher harvesting rates would make webstore harvesting boosts feel more worthwhile. Completing this form awards 5,000 Gold Nuggets and a Webstore Dino reward once. Discord login and a linked ARK account are required.",
+    "reward": 5000,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": false,
+    "permanent": false,
+    "questions": [
+      {
+        "key": "boost_purchase_history",
+        "label": "Have you bought a harvesting boost from the Lusty Looters webstore?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Yes, more than once",
+          "Yes, once",
+          "No, but I have considered it",
+          "No, I am not interested"
+        ]
+      },
+      {
+        "key": "current_boost_value",
+        "label": "How do the current harvesting boosts feel for their price?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Excellent value",
+          "Good value",
+          "About right",
+          "Poor value",
+          "Very poor value",
+          "I have not reviewed them"
+        ]
+      },
+      {
+        "key": "best_value_change",
+        "label": "Which single change would most improve their value for you?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Lower price at the current rate and duration",
+          "Longer duration at the current price and rate",
+          "Higher harvesting rate at the current price and duration",
+          "A smaller mix of these changes",
+          "Current offers are fine",
+          "None would interest me",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "lower_price_impact",
+        "label": "If the price were lower but the rate and duration stayed the same, would you be more likely to buy?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Much more likely",
+          "Somewhat more likely",
+          "No change",
+          "Less likely",
+          "I would not buy a boost"
+        ]
+      },
+      {
+        "key": "longer_duration_impact",
+        "label": "If the duration were longer but the price and rate stayed the same, would you be more likely to buy?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Much more likely",
+          "Somewhat more likely",
+          "No change",
+          "Less likely",
+          "I would not buy a boost"
+        ]
+      },
+      {
+        "key": "higher_rate_impact",
+        "label": "If the harvesting rate were higher but the price and duration stayed the same, would you be more likely to buy?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Much more likely",
+          "Somewhat more likely",
+          "No change",
+          "Less likely",
+          "I would not buy a boost"
+        ]
+      },
+      {
+        "key": "ideal_boost_offer",
+        "label": "Describe a boost you would consider good value. Include the price, duration, and harvesting rate you would expect.",
+        "type": "textarea",
+        "required": true,
+        "maxLength": 1400,
+        "options": []
+      },
+      {
+        "key": "preferred_duration",
+        "label": "What boost duration would you most often use?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "A few hours",
+          "One day",
+          "Two to three days",
+          "One week",
+          "Longer than one week",
+          "It depends on the rate or price",
+          "I would not use a boost"
+        ]
+      },
+      {
+        "key": "balance_concern",
+        "label": "How concerned are you that stronger or longer boosts could affect server balance?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "Not concerned",
+          "Slightly concerned",
+          "Moderately concerned",
+          "Very concerned",
+          "Unsure"
+        ]
+      },
+      {
+        "key": "other_boost_feedback",
+        "label": "What else would make harvesting boosts clearer, fairer, or better value?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 1200,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "Webstore Dino reward",
+      "commands": [
+        "RA.Reward {{eosId}} WebstoreDino1"
+      ]
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Your reward, **{{reward}}**, has been processed. Thanks for helping shape Lusty Looters.",
+      "reviewMessage": "We saved your response to **{{formTitle}}**. Your **{{reward}}** reward needs a staff check. We will follow up here.",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  },
+  {
+    "id": "how_did_you_find_us",
+    "title": "How Did You Find Us?",
+    "description": "Tell us how you found Lusty Looters and help us understand where new players are coming from. Completing this form awards 25,000 Gold Nuggets once. Discord login and a linked ARK account are required.",
+    "reward": 25000,
+    "enabled": true,
+    "repeatDays": 0,
+    "allowedDiscordIds": [],
+    "publicSubmission": false,
+    "allowRepeatSubmissions": false,
+    "permanent": false,
+    "questions": [
+      {
+        "key": "discovery_source",
+        "label": "Where did you first find Lusty Looters?",
+        "type": "select",
+        "required": true,
+        "maxLength": 180,
+        "options": [
+          "ARK in-game server browser",
+          "Facebook",
+          "Discord",
+          "Reddit",
+          "Google or another search engine",
+          "Server listing or voting website",
+          "YouTube",
+          "TikTok",
+          "Twitch or another livestream",
+          "A friend or tribe member",
+          "Other",
+          "I cannot remember"
+        ]
+      },
+      {
+        "key": "source_details",
+        "label": "If you found us on Discord, a voting site, Reddit, Facebook or another page, which server, site, subreddit, group or page was it? Add a name or link.",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 600,
+        "options": []
+      },
+      {
+        "key": "reason_for_joining",
+        "label": "What made you decide to join Lusty Looters?",
+        "type": "textarea",
+        "required": false,
+        "maxLength": 600,
+        "options": []
+      }
+    ],
+    "rconReward": {
+      "label": "",
+      "commands": []
+    },
+    "overseerEmbed": {
+      "enabled": true,
+      "title": "Thanks for your feedback, {{playerName}}!",
+      "message": "We saved your response to **{{formTitle}}**. Your reward, **{{reward}}**, has been processed. Thanks for helping us understand how players find Lusty Looters.",
+      "reviewMessage": "We saved your response to **{{formTitle}}**. Your **{{reward}}** reward needs a staff check. We will follow up here.",
+      "extra": "",
+      "color": "#2582ee"
+    }
+  }
+]
