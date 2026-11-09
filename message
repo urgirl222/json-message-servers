@@ -1364,9 +1364,9 @@
 		},
 		"iconsettings":
 		{
-			"showicon": true,
+			"showicon": false,
 			"hideafterduration": 0,
-			"usecustomicon": true,
+			"usecustomicon": false,
 			"customiconurl": "https://i.imgur.com/hSLVhdU.png",
 			"usecustomtext": false,
 			"customtext": "",
